@@ -34159,13 +34159,13 @@
     "Mod": "Xiyue's Milira Expanded",
     "KarmaType": null
   },
-  "Apparel_LisaStardust_MikamiClothes": {
+  "Milira_RailShotgun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -34176,7 +34176,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "米莉拉特殊角色：璃纱·星尘",
+    "Mod": "Milira Faction: Milira Imperium",
     "KarmaType": null
   },
   "LTS_HemnesDouble": {
@@ -139379,24 +139379,24 @@
     "Mod": null,
     "KarmaType": null
   },
-  "Milira_RailShotgun": {
+  "AC_RatkinCake": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Milira Faction: Milira Imperium",
+    "Mod": "Ratkin Faction+",
     "KarmaType": null
   },
   "Ferny_MerchantBox": {

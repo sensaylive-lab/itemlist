@@ -7910,60 +7910,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy carries the heavy breath of wilderness and earth. he moves with startling speed, but is forever chased by an impossible hunger.",
-      "stats": [
-        "+2.00 move speed",
-        "+10.0 melee dodge chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2.00 move speed",
-          "+10.0 melee dodge chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "米莉拉特殊角色：璃纱·星尘",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LisaStardust_ChengHuang",
-      "name": "wasteland-bearer"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy possesses a beauty that can shake hearts and kingdoms. Others find it hard to ignore him.",
-      "stats": [
-        "+2.0 beauty"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "米莉拉特殊角色：璃纱·星尘",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LisaStardust_QingGuoQingCheng",
-      "name": "kingdom-topplingbeauty"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Despite undergoing a full set of Milira surgeries, Timmy still retains some of her habits from her days as Kiiro.",
       "stats": [
         "+2 cooking",
