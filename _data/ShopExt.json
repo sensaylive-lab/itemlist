@@ -8973,6 +8973,28 @@
       },
       "defName": "VFEP_WarcasketTrait_Mech",
       "name": "mechwarcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has experienced the danger of a deadly cryptobiological organism. he is wary of its life cycle and the danger it poses.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alien | Rimworld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "XMT_Survivor",
+      "name": "survivor"
     }
   ],
   "races": [
@@ -9178,6 +9200,121 @@
       "enabled": true,
       "name": "ratkin",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.5 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$58330 Market value",
+          "+9.20 Move speed",
+          "-270.0C Min comfortable temperature",
+          "+310.0C Max comfortable temperature",
+          "+25 Leather amount",
+          "+100 Honor value",
+          "+100% Wildness",
+          "+27 Armor - Sharp",
+          "+70 Armor - Blunt",
+          "+20.0% Armor - Heat",
+          "+0% Smoke sensitivity",
+          "+100% Night vision efficiency",
+          "+18.40 Crawl speed",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+90% Incoming damage multiplier",
+          "+50 Terror",
+          "+800% per day Slave suppression fall rate",
+          "+125.0 Min containment strength",
+          "+0% Trap spring chance",
+          "+15 Meat amount",
+          "+2.5% Stagger time multiplier",
+          "+50% Melee cooldown",
+          "+100% Vacuum resistance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "a bipedal creature with hardened exoskeleton, phallic shaped cranium and a sharp bladed tail with prominent vertebral processes.",
+      "defName": "XMT_Starbeast_AlienRace",
+      "enabled": true,
+      "name": "xenomorph",
+      "price": 97217
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "XMT_Hybrid_AlienRace",
+      "enabled": true,
+      "name": "hybrid",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.3 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$291650 Market value",
+          "+7.00 Move speed",
+          "-270.0C Min comfortable temperature",
+          "+310.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+500 Honor value",
+          "+100% Wildness",
+          "+27 Armor - Sharp",
+          "+70 Armor - Blunt",
+          "+20.0% Armor - Heat",
+          "+0% Smoke sensitivity",
+          "+100% Night vision efficiency",
+          "+8.00 Crawl speed",
+          "+100% Toxic resistance",
+          "+100% Toxic environment resistance",
+          "+90% Incoming damage multiplier",
+          "+100 Terror",
+          "+800% per day Slave suppression fall rate",
+          "+250.0 Min containment strength",
+          "+0% Trap spring chance",
+          "+15 Meat amount",
+          "+2.5% Stagger time multiplier",
+          "+50% Melee cooldown",
+          "+100% Vacuum resistance",
+          "+0% Suppressability",
+          "+75% Global work speed",
+          "+125% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "a bipedal creature with hardened exoskeleton, phallic shaped cranium and a sharp bladed tail with prominent vertebral processes.",
+      "defName": "XMT_Royal_AlienRace",
+      "enabled": true,
+      "name": "queen",
+      "price": 486083
     }
   ]
 }

@@ -15894,6 +15894,258 @@
 		"category": "8x50mm EM-CMC",
 		"defname": "Ammo_8x50mmElectromagnetic_Ion"
 	},
+	{
+		"abr": "shrike5.56",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AWS_LMG"
+	},
+	{
+		"abr": "škorpionvz.65",
+		"price": 692,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_VZ65_SMG"
+	},
+	{
+		"abr": "//primordialaxis·entropy//",
+		"price": 2192,
+		"category": "Misc",
+		"defname": "CMC_CommConsole"
+	},
+	{
+		"abr": "<color=#5bc4e2><i>qbb-302t:zhengthethunderer</i></color>",
+		"price": 4392,
+		"category": "CMC Weapons",
+		"defname": "W85X_Thunderer"
+	},
+	{
+		"abr": "<color=#5bc4e2>r-371xninetails</color>",
+		"price": 3667,
+		"category": "CMC Weapons",
+		"defname": "QBU71_QS"
+	},
+	{
+		"abr": "<color=#ceeaed>ar-105rjiuyingassaultrifle</color>",
+		"price": 3167,
+		"category": "CMC Weapons",
+		"defname": "QBZ_threeooED"
+	},
+	{
+		"abr": "<color=#ceeaed>ar-232fkirin</color>",
+		"price": 3242,
+		"category": "CMC Weapons",
+		"defname": "QBZ_fivenineFlame"
+	},
+	{
+		"abr": "<color=#ceeaed>qft-1xihepulseflamethrower</color>",
+		"price": 2650,
+		"category": "CMC Weapons",
+		"defname": "PrototypeXiHe"
+	},
+	{
+		"abr": "<color=#ceeaed>sg-131fshotgunbifang</color>",
+		"price": 1508,
+		"category": "CMC Weapons",
+		"defname": "CMC_QBAfournineFlame"
+	},
+	{
+		"abr": "<color=#ff99c7>rainbowminimi</color>",
+		"price": 2067,
+		"category": "Ranged weapons",
+		"defname": "TWRL_Gun_RainbowMinimi"
+	},
+	{
+		"abr": "<color=#ff99c7>rainbowrevolver</color>",
+		"price": 1025,
+		"category": "Ranged weapons",
+		"defname": "TWRL_Gun_RainbowRevolver"
+	},
+	{
+		"abr": "<color=#ff99c7>rainbowshotgun</color>",
+		"price": 1517,
+		"category": "Ranged weapons",
+		"defname": "TWRL_Gun_RainbowShotgun"
+	},
+	{
+		"abr": "<color=#ffaa00><i>anti-entropysword</i></color>",
+		"price": 6167,
+		"category": "CMC Weapons",
+		"defname": "CMC_EMPsword_sevenstars"
+	},
+	{
+		"abr": "<color=#ffaa00><i>personaceletechblade</i></color>",
+		"price": 9542,
+		"category": "CMC Weapons",
+		"defname": "TangDaoPersona"
+	},
+	{
+		"abr": "<color=#ffaa00><i>qbz-101-xmem-rifle</i></color>",
+		"price": 21333,
+		"category": "CMC Weapons",
+		"defname": "QBZoneooneXuanMing_Elite"
+	},
+	{
+		"abr": "<color=#ffaa00><i>qbzl-823taotieiiparticlelance</i></color>",
+		"price": 21333,
+		"category": "CMC Weapons",
+		"defname": "CMC_TaoTie_Persona"
+	},
+	{
+		"abr": "<color=#ffaa00><i>qlu-x-zhiipulsecannon</i></color>",
+		"price": 15517,
+		"category": "Armor",
+		"defname": "QLUX_Pulse_Projector_Persona_Apparel"
+	},
+	{
+		"abr": "<color=#ffaa00><i>qmz-102slpulselmg</i></color>",
+		"price": 21333,
+		"category": "CMC Weapons",
+		"defname": "CMC_QiyaoLaserLMG"
+	},
+	{
+		"abr": "105mmhowitzer",
+		"price": 1792,
+		"category": "Security",
+		"defname": "CE_Artillery_Howitzer"
+	},
+	{
+		"abr": "12-pounderbombard",
+		"price": 950,
+		"category": "Security",
+		"defname": "CE_Turret_12PounderBombard"
+	},
+	{
+		"abr": "12-poundercannon",
+		"price": 950,
+		"category": "Security",
+		"defname": "CE_Turret_TwelvePounder"
+	},
+	{
+		"abr": "2-tierdisplayshelf",
+		"price": 148,
+		"category": "Storage",
+		"defname": "sbz_TwoTierDisplayShelf"
+	},
+	{
+		"abr": "2xscope",
+		"price": 250,
+		"category": "Weapon module",
+		"defname": "CWF_Module_2xScope"
+	},
+	{
+		"abr": "3dprinter",
+		"price": 2467,
+		"category": "Misc",
+		"defname": "HobbesLink_3DPrinter"
+	},
+	{
+		"abr": "4xscope",
+		"price": 250,
+		"category": "Weapon module",
+		"defname": "CWF_Module_4xScope"
+	},
+	{
+		"abr": "60mmportablemortar",
+		"price": 658,
+		"category": "Security",
+		"defname": "CE_Turret_PortableMortar"
+	},
+	{
+		"abr": "8xscope",
+		"price": 250,
+		"category": "Weapon module",
+		"defname": "CWF_Module_8xScope"
+	},
+	{
+		"abr": "90mmflakturret",
+		"price": 2117,
+		"category": "Security",
+		"defname": "Turret_Flak"
+	},
+	{
+		"abr": "a0xprotofluid",
+		"price": 3333,
+		"category": "Drugs",
+		"defname": "XMT_Protofluid"
+	},
+	{
+		"abr": "a-12chargeanti-materielrifle",
+		"price": 1892,
+		"category": "Ranged weapons",
+		"defname": "CE_Gun_ChargeAMR"
+	},
+	{
+		"abr": "a-91",
+		"price": 892,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_A91_AR"
+	},
+	{
+		"abr": "aa-12",
+		"price": 700,
+		"category": "Shotgun",
+		"defname": "RNGun_AA12_Shotgun"
+	},
+	{
+		"abr": "aa-12",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AA12_AS"
+	},
+	{
+		"abr": "aberrantfleshbeast",
+		"price": 17,
+		"category": "Animals",
+		"defname": "GR_AberrantFleshbeast"
+	},
+	{
+		"abr": "aberrationredirector",
+		"price": 1667,
+		"category": "Archite injection lab",
+		"defname": "VQEA_AberrationRedirector"
+	},
+	{
+		"abr": "absolverarmor",
+		"price": 5333,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorAbsolver"
+	},
+	{
+		"abr": "absolverhelmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_AbsolverHelmet"
+	},
+	{
+		"abr": "abyssiniancat",
+		"price": 333,
+		"category": "Animals",
+		"defname": "AEXP_CatAbyssinian"
+	},
+	{
+		"abr": "ac-556",
+		"price": 650,
+		"category": "Assault rifles",
+		"defname": "HIDGun_RugerAC556_GB"
+	},
+	{
+		"abr": "acanthamoebagigantea,huge",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "AA_AcanthamoebaGiganteaHuge"
+	},
+	{
+		"abr": "acanthamoebagigantea,large",
+		"price": 583,
+		"category": "Animals",
+		"defname": "AA_AcanthamoebaGiganteaLarge"
+	},
+	{
+		"abr": "acanthamoebagigantea,small",
+		"price": 250,
+		"category": "Animals",
+		"defname": "AA_AcanthamoebaGiganteaSmall"
+	}
 	],
-	"total": 8433
+	"total": 8475
 }

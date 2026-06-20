@@ -48,12 +48,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Nera",
-    "name": "[BT] SpawnThoseGenes!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Orion",
     "name": "[CAT] Show Hair With Hats or Hide All Hats",
     "steamId": "2879080074",
@@ -1116,6 +1110,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Plants Expanded - Flowers",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
@@ -1642,6 +1642,12 @@
     "name": "[OA]Ratkin Faction: Oberonia aurea",
     "steamId": "3159926804",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Nighzmarquls",
+    "name": "Alien | Rimworld",
+    "steamId": "3596077324",
+    "version": "0.111.1"
   },
   {
     "author": "Sarg",
