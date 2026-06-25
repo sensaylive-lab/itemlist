@@ -51379,6 +51379,186 @@
       "price": 110
     },
     {
+      "abr": "animalvacskingland",
+      "category": "Animal parts",
+      "defname": "AI_AnimalVacSkinGland",
+      "price": 575
+    },
+    {
+      "abr": "appleicecream",
+      "category": "Ice cream",
+      "defname": "AppleIceCream_VPE",
+      "price": 33
+    },
+    {
+      "abr": "bananaicecream",
+      "category": "Ice cream",
+      "defname": "BananaIceCream_VPE",
+      "price": 33
+    },
+    {
+      "abr": "beardedirisseedbundle",
+      "category": "Seed bundles",
+      "defname": "VPEF_Plant_BeardedIris_SeedBundle",
+      "price": 500
+    },
+    {
+      "abr": "bloomarisseedbundle",
+      "category": "Seed bundles",
+      "defname": "VPEF_Plant_Bloomaris_SeedBundle",
+      "price": 500
+    },
+    {
+      "abr": "cherryicecream",
+      "category": "Ice cream",
+      "defname": "CherryIceCream_VPE",
+      "price": 33
+    },
+    {
+      "abr": "everflamegreatsword",
+      "category": "Melee weapons",
+      "defname": "KiiroValor_Weapon_EverflameGreatsword",
+      "price": 6000
+    },
+    {
+      "abr": "firewood",
+      "category": "Raw resources",
+      "defname": "KiiroValor_BonfireFirewood",
+      "price": 2000
+    },
+    {
+      "abr": "flameazaleabushseedbundle",
+      "category": "Seed bundles",
+      "defname": "VPEF_Plant_FlameAzalea_SeedBundle",
+      "price": 500
+    },
+    {
+      "abr": "flame-flarestraightsword",
+      "category": "Melee weapons",
+      "defname": "KiiroValor_Weapon_FlameFlareStraightSword",
+      "price": 3167
+    },
+    {
+      "abr": "greatswordofthefirstlord",
+      "category": "Melee weapons",
+      "defname": "KiiroValor_Weapon_FirstLordGreatsword",
+      "price": 4667
+    },
+    {
+      "abr": "luna'sstargazeroutfit",
+      "category": "Kiiro onskin",
+      "defname": "KiiroValor_Apparel_LunaStargazerOutfit",
+      "price": 20000
+    },
+    {
+      "abr": "miliraediblepigment",
+      "category": "Meals",
+      "defname": "Dellin_Milira_EdiblePigment",
+      "price": 13
+    },
+    {
+      "abr": "moonlightgreatsword",
+      "category": "Melee weapons",
+      "defname": "KiiroValor_Weapon_MoonlightGreatsword",
+      "price": 23333
+    },
+    {
+      "abr": "orangeicecream",
+      "category": "Ice cream",
+      "defname": "OrangeIceCream_VPE",
+      "price": 33
+    },
+    {
+      "abr": "ordinarystick",
+      "category": "Melee weapons",
+      "defname": "KiiroValor_Weapon_OrdinaryStick",
+      "price": 700
+    },
+    {
+      "abr": "pampasgrassseedbundle",
+      "category": "Seed bundles",
+      "defname": "VPEF_Plant_PampasGrass_SeedBundle",
+      "price": 500
+    },
+    {
+      "abr": "peachicecream",
+      "category": "Ice cream",
+      "defname": "PeachIceCream_VPE",
+      "price": 33
+    },
+    {
+      "abr": "pearicecream",
+      "category": "Ice cream",
+      "defname": "PearIceCream_VPE",
+      "price": 33
+    },
+    {
+      "abr": "plumicecream",
+      "category": "Ice cream",
+      "defname": "PlumIceCream_VPE",
+      "price": 33
+    },
+    {
+      "abr": "prairiefireseedbundle",
+      "category": "Seed bundles",
+      "defname": "VPEF_Plant_PraireFire_SeedBundle",
+      "price": 500
+    },
+    {
+      "abr": "pricklypearicecream",
+      "category": "Ice cream",
+      "defname": "PricklyPearIceCream_VPE",
+      "price": 33
+    },
+    {
+      "abr": "pruneicecream",
+      "category": "Ice cream",
+      "defname": "PruneIceCream_VPE",
+      "price": 33
+    },
+    {
+      "abr": "smallsickle",
+      "category": "Melee weapons",
+      "defname": "KiiroValor_Weapon_SmallSickle",
+      "price": 1633
+    },
+    {
+      "abr": "solena'sadventureoutfit",
+      "category": "Kiiro onskin",
+      "defname": "KiiroValor_Apparel_SolenaAdventureOutfit",
+      "price": 6000
+    },
+    {
+      "abr": "starbranchstaff",
+      "category": "Ranged weapons",
+      "defname": "KiiroValor_Weapon_StarbranchStaff",
+      "price": 23333
+    },
+    {
+      "abr": "stargazerbench",
+      "category": "Furniture",
+      "defname": "KiiroValor_Building_StargazerBench",
+      "price": 667
+    },
+    {
+      "abr": "sunessence",
+      "category": "Raw resources",
+      "defname": "KiiroValor_SunEssence",
+      "price": 833
+    },
+    {
+      "abr": "105mmhowitzershell(anti)",
+      "category": "105mm Howitzer shell",
+      "defname": "Ammo_105mmHowitzerShell_Anti",
+      "price": 2667
+    },
+    {
+      "abr": "155mmhowitzershell(anti)",
+      "category": "155mm Howitzer shell",
+      "defname": "Ammo_155mmHowitzerShell_Anti",
+      "price": 3500
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -51887,115 +52067,7 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
-    },
-    {
-      "abr": "animalvacskingland",
-      "category": "Animal parts",
-      "defname": "AI_AnimalVacSkinGland",
-      "price": 575
-    },
-    {
-      "abr": "appleicecream",
-      "category": "Ice cream",
-      "defname": "AppleIceCream_VPE",
-      "price": 33
-    },
-    {
-      "abr": "bananaicecream",
-      "category": "Ice cream",
-      "defname": "BananaIceCream_VPE",
-      "price": 33
-    },
-    {
-      "abr": "beardedirisseedbundle",
-      "category": "Seed bundles",
-      "defname": "VPEF_Plant_BeardedIris_SeedBundle",
-      "price": 500
-    },
-    {
-      "abr": "bloomarisseedbundle",
-      "category": "Seed bundles",
-      "defname": "VPEF_Plant_Bloomaris_SeedBundle",
-      "price": 500
-    },
-    {
-      "abr": "cherryicecream",
-      "category": "Ice cream",
-      "defname": "CherryIceCream_VPE",
-      "price": 33
-    },
-    {
-      "abr": "flameazaleabushseedbundle",
-      "category": "Seed bundles",
-      "defname": "VPEF_Plant_FlameAzalea_SeedBundle",
-      "price": 500
-    },
-    {
-      "abr": "miliraediblepigment",
-      "category": "Meals",
-      "defname": "Dellin_Milira_EdiblePigment",
-      "price": 13
-    },
-    {
-      "abr": "orangeicecream",
-      "category": "Ice cream",
-      "defname": "OrangeIceCream_VPE",
-      "price": 33
-    },
-    {
-      "abr": "pampasgrassseedbundle",
-      "category": "Seed bundles",
-      "defname": "VPEF_Plant_PampasGrass_SeedBundle",
-      "price": 500
-    },
-    {
-      "abr": "peachicecream",
-      "category": "Ice cream",
-      "defname": "PeachIceCream_VPE",
-      "price": 33
-    },
-    {
-      "abr": "pearicecream",
-      "category": "Ice cream",
-      "defname": "PearIceCream_VPE",
-      "price": 33
-    },
-    {
-      "abr": "plumicecream",
-      "category": "Ice cream",
-      "defname": "PlumIceCream_VPE",
-      "price": 33
-    },
-    {
-      "abr": "prairiefireseedbundle",
-      "category": "Seed bundles",
-      "defname": "VPEF_Plant_PraireFire_SeedBundle",
-      "price": 500
-    },
-    {
-      "abr": "pricklypearicecream",
-      "category": "Ice cream",
-      "defname": "PricklyPearIceCream_VPE",
-      "price": 33
-    },
-    {
-      "abr": "pruneicecream",
-      "category": "Ice cream",
-      "defname": "PruneIceCream_VPE",
-      "price": 33
-    },
-    {
-      "abr": "105mmhowitzershell(anti)",
-      "category": "105mm Howitzer shell",
-      "defname": "Ammo_105mmHowitzerShell_Anti",
-      "price": 2667
-    },
-    {
-      "abr": "155mmhowitzershell(anti)",
-      "category": "155mm Howitzer shell",
-      "defname": "Ammo_155mmHowitzerShell_Anti",
-      "price": 3500
     }
   ],
-  "total": 8666
+  "total": 8678
 }

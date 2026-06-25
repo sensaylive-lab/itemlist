@@ -8995,6 +8995,102 @@
       },
       "defName": "XMT_Survivor",
       "name": "survivor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Placeholder trait for Luna Sesia's fixed identity and signature skill profile.",
+      "stats": [
+        "+20% global learning factor",
+        "+20% psychic sensitivity",
+        "x120% research speed",
+        "x110% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% global learning factor",
+          "+20% psychic sensitivity",
+          "x120% research speed",
+          "x110% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Faction: Valor",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KiiroValor_Trait_LunaStargazer",
+      "name": "stargazer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has exceptional talent for cooking and a miraculous culinary touch that can turn the ordinary into something amazing. She is usually lazy and not especially eager to cook, but once she starts, everything she makes ends up tasting suspiciously good.\n\n\"I just threw something together... why is everyone looking at me like that?\"",
+      "stats": [
+        "x50% food poison chance",
+        "x140% cooking speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x50% food poison chance",
+          "x140% cooking speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Faction: Valor",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KiiroValor_Trait_SolenaChef",
+      "name": "valorchef"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Placeholder.",
+      "stats": [
+        "+0.15 move speed",
+        "+15% global learning factor",
+        "+10% pain shock threshold",
+        "+20 carrying capacity",
+        "+2.0 melee dodge chance",
+        "x90% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.15 move speed",
+          "+15% global learning factor",
+          "+10% pain shock threshold",
+          "+20 carrying capacity",
+          "+2.0 melee dodge chance",
+          "x90% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Faction: Valor",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KiiroValor_Trait_ValorHero",
+      "name": "valor"
     }
   ],
   "races": [

@@ -108,6 +108,12 @@
     "version": null
   },
   {
+    "author": "llunak and Shadowrabbit",
+    "name": "[SR]Factional War (fork)",
+    "steamId": "3423264477",
+    "version": "1.0.0+573ef4c77814322454c69ccb173628a4bd6532a7"
+  },
+  {
     "author": "sy4",
     "name": "[SY4] Vanilla-Friendly Weapon Pack",
     "steamId": null,
@@ -694,6 +700,12 @@
     "name": "Raids For Me",
     "steamId": "1633517937",
     "version": "1.0.10.0"
+  },
+  {
+    "author": "mr.teterew",
+    "name": "Real Ruins",
+    "steamId": "1552146295",
+    "version": "2.2.2.*"
   },
   {
     "author": "Wemd",
@@ -1321,12 +1333,6 @@
   },
   {
     "author": "ferny",
-    "name": "Node Research",
-    "steamId": "3729878405",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ferny",
     "name": "Progression: Gravship",
     "steamId": "3522893553",
     "version": "1.0.0.0"
@@ -1366,12 +1372,6 @@
     "name": "Rimpsyche - Sexuality",
     "steamId": "3627304156",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Rang",
-    "name": "Scream for Cream",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "cyanobot",
@@ -1650,6 +1650,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "M.Y.G and NightOcean",
+    "name": "[OA]Ratkin Gene Expand",
+    "steamId": "3300291918",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Nighzmarquls",
     "name": "Alien | Rimworld",
     "steamId": "3596077324",
@@ -1788,6 +1794,12 @@
     "version": null
   },
   {
+    "author": "Fubuki",
+    "name": "Kiiro Faction: Valor",
+    "steamId": "3743866307",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Chougou",
     "name": "Kiiro Medieval Expansion",
     "steamId": null,
@@ -1848,6 +1860,12 @@
     "version": null
   },
   {
+    "author": "あめがくる",
+    "name": "Ratkin Medievalization",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Feng Xinzi",
     "name": "Ratkin Weapons+",
     "steamId": "2779404660",
@@ -1876,6 +1894,12 @@
     "name": "RimQuest (Continued)",
     "steamId": "2263331727",
     "version": "1.6.2"
+  },
+  {
+    "author": "Rang",
+    "name": "Scream for Cream",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PJerri",
@@ -1927,8 +1951,8 @@
   },
   {
     "author": "M.Y.G and NightOcean",
-    "name": "[OA]Ratkin Gene Expand",
-    "steamId": "3300291918",
+    "name": "[OA]Ratkin Scenario: Snowstorm Orphan",
+    "steamId": "3381392312",
     "version": "1.0.0.0"
   },
   {
@@ -2032,12 +2056,6 @@
     "name": "Unique weapon for races",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "M.Y.G and NightOcean",
-    "name": "[OA]Ratkin Scenario: Snowstorm Orphan",
-    "steamId": "3381392312",
-    "version": "1.0.0.0"
   },
   {
     "author": "seobongzu",
@@ -2187,6 +2205,12 @@
     "author": "HeChuanRiver",
     "name": "米莉拉角色拓展 v1.1",
     "steamId": "3684504594",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ferny",
+    "name": "Node Research",
+    "steamId": "3729878405",
     "version": "1.0.0.0"
   }
 ]
