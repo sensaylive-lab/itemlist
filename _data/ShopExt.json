@@ -1969,36 +1969,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy easily perceives foreign languages.",
-      "stats": [
-        "x200% language learning ability"
-      ],
-      "conflicts": [
-        "slowlearner"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "slowlearner"
-        ],
-        "stats": [
-          "x200% language learning ability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Cybranian - Rim Languages",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Polyglot",
-      "name": "polyglot"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
       "stats": [],
@@ -6951,79 +6921,17 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy prefers shells over sleeves. he doesn’t care how often he switches shells or what shell he is currently riding, but will be unhappy in a sleeve.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon 2: ReSleeved",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AC_Shellwalker",
-      "name": "shellwalker"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has always seen his body as nothing more than a vessel. he does not care about the gender, age or looks of his body.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon 2: ReSleeved",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AC_FreeMind",
-      "name": "freemind"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy can change his sleeves as easily as someone else may change their clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon 2: ReSleeved",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AC_Sleever",
-      "name": "sleever"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
-      "conflicts": [],
+      "conflicts": [
+        "egalitarianist"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "egalitarianist"
+        ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
@@ -7042,10 +6950,14 @@
       "degree": -1,
       "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
-      "conflicts": [],
+      "conflicts": [
+        "egalitarianist"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "egalitarianist"
+        ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
@@ -7055,98 +6967,6 @@
       },
       "defName": "HAR_Xenophobia",
       "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a formidable fighter. he knows how to effectively handle a weapon and take blows.",
-      "stats": [
-        "+1.0 weapon handling",
-        "-15% aiming time",
-        "+3.0 melee hit chance",
-        "+15% melee critical chance",
-        "+15% melee parry chance",
-        "+0.3 melee dodge chance",
-        "+20% trap spring chance",
-        "-10% mental break threshold",
-        "+10% pain shock threshold",
-        "-15% suppressability",
-        "x5% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+1.0 weapon handling",
-          "-15% aiming time",
-          "+3.0 melee hit chance",
-          "+15% melee critical chance",
-          "+15% melee parry chance",
-          "+0.3 melee dodge chance",
-          "+20% trap spring chance",
-          "-10% mental break threshold",
-          "+10% pain shock threshold",
-          "-15% suppressability",
-          "x5% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Medieval Overhaul",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DankPyon_Fighter",
-      "name": "fighter"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a veteran. he has experienced countless of horrifying battles enough to break a common man.",
-      "stats": [
-        "+1.5 weapon handling",
-        "-15% aiming time",
-        "+4.0 melee hit chance",
-        "+25% melee critical chance",
-        "+25% melee parry chance",
-        "+0.5 melee dodge chance",
-        "+10% trap spring chance",
-        "-20% mental break threshold",
-        "+10% pain shock threshold",
-        "-25% suppressability",
-        "x25% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+1.5 weapon handling",
-          "-15% aiming time",
-          "+4.0 melee hit chance",
-          "+25% melee critical chance",
-          "+25% melee parry chance",
-          "+0.5 melee dodge chance",
-          "+10% trap spring chance",
-          "-20% mental break threshold",
-          "+10% pain shock threshold",
-          "-25% suppressability",
-          "x25% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Medieval Overhaul",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DankPyon_Veteran",
-      "name": "veteran"
     },
     {
       "canAdd": true,
@@ -7531,194 +7351,6 @@
       },
       "defName": "OARK_Trait_SpaceTraveler",
       "name": "深空旅人"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "This unit is a mass-produced model from CeleTech-Bio Biotechnology. Imprinted with the memories of disciplined volunteers, it possesses stable mental faculties and enhanced metabolic efficiency. The basic neural dampening suppresses minor personality flaws.",
-      "stats": [
-        "+0.20 move speed",
-        "+10% toxic resistance",
-        "-4% mental break threshold",
-        "x105% weapon handling",
-        "x105% global work speed"
-      ],
-      "conflicts": [
-        "wimp",
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp",
-          "brawler"
-        ],
-        "stats": [
-          "+0.20 move speed",
-          "+10% toxic resistance",
-          "-4% mental break threshold",
-          "x105% weapon handling",
-          "x105% global work speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "CeleTech Arsenal MKIII",
-        "karmaTypeForAdding": null
-      },
-      "defName": "CMC_CloneTraitCommon",
-      "name": "celetech-biostandardclone"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "A refined genetic sequence from the CeleTech-Bio production line. This unit carries the memory engrams of veteran officers, granting superior reflexes and focus. Its genetic screening has eliminated common physical and psychological weaknesses.",
-      "stats": [
-        "+0.40 move speed",
-        "-10% aiming time",
-        "+20% toxic resistance",
-        "-8% mental break threshold",
-        "x110% weapon handling",
-        "x115% global work speed"
-      ],
-      "conflicts": [
-        "wimp",
-        "delicate",
-        "slowlearner",
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp",
-          "delicate",
-          "slowlearner",
-          "brawler"
-        ],
-        "stats": [
-          "+0.40 move speed",
-          "-10% aiming time",
-          "+20% toxic resistance",
-          "-8% mental break threshold",
-          "x110% weapon handling",
-          "x115% global work speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "CeleTech Arsenal MKIII",
-        "karmaTypeForAdding": null
-      },
-      "defName": "CMC_CloneTraitRare",
-      "name": "celetech-bioeliteclone"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "An experimental combat model designed by CeleTech-Bio Biotech. Integrated with a pre-installed Combat Chip and imprinted with special forces memories, this unit is a weapon of war. The neural override suppresses fear and fragility.",
-      "stats": [
-        "+0.60 move speed",
-        "-20% aiming time",
-        "+35% toxic resistance",
-        "+15% pain shock threshold",
-        "+10.0 melee dodge chance",
-        "x120% weapon handling",
-        "x125% global work speed",
-        "x90% incoming damage multiplier"
-      ],
-      "conflicts": [
-        "wimp",
-        "delicate",
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp",
-          "delicate",
-          "brawler"
-        ],
-        "stats": [
-          "+0.60 move speed",
-          "-20% aiming time",
-          "+35% toxic resistance",
-          "+15% pain shock threshold",
-          "+10.0 melee dodge chance",
-          "x120% weapon handling",
-          "x125% global work speed",
-          "x90% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "CeleTech Arsenal MKIII",
-        "karmaTypeForAdding": null
-      },
-      "defName": "CMC_CloneTraitEpic",
-      "name": "celetech-biocyber-vanguard"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "The pinnacle of CeleTech-Bio biotechnology. This masterpiece features a fully adapted \"Revelation\" neural network, capable of channeling psychic entropy. Imprinted with the memories of legendary heroes, it is physically perfect and mentally unbreakable. All significant character flaws have been genetically purged.",
-      "stats": [
-        "+1.00 move speed",
-        "-35% aiming time",
-        "+50% toxic resistance",
-        "+50% psychic sensitivity",
-        "+0.20 neural heat recovery rate",
-        "-20% mental break threshold",
-        "x140% weapon handling",
-        "x150% global work speed",
-        "x75% incoming damage multiplier"
-      ],
-      "conflicts": [
-        "wimp",
-        "delicate",
-        "pyromaniac",
-        "gourmand",
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp",
-          "delicate",
-          "pyromaniac",
-          "gourmand",
-          "brawler"
-        ],
-        "stats": [
-          "+1.00 move speed",
-          "-35% aiming time",
-          "+50% toxic resistance",
-          "+50% psychic sensitivity",
-          "+0.20 neural heat recovery rate",
-          "-20% mental break threshold",
-          "x140% weapon handling",
-          "x150% global work speed",
-          "x75% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "CeleTech Arsenal MKIII",
-        "karmaTypeForAdding": null
-      },
-      "defName": "CMC_CloneTraitLeng",
-      "name": "celetech-biopsylinkprime"
     },
     {
       "canAdd": true,
@@ -8844,164 +8476,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "爻爻获得了某个粉色善意超凡智能的加持。她的肉体强度得到了不可思议的提升，对痛苦的感知已被无尽的快感所取代。",
-      "stats": [
-        "+200% pain shock threshold",
-        "+50% medical tend quality",
-        "+25.00% trade price improvement",
-        "+40.00% social impact",
-        "+30.00% negotiation ability",
-        "x10% incoming damage multiplier",
-        "x200% surgery success chance factor",
-        "x200% medical operation speed",
-        "x200% medical tend speed",
-        "x200% general labor speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+200% pain shock threshold",
-          "+50% medical tend quality",
-          "+25.00% trade price improvement",
-          "+40.00% social impact",
-          "+30.00% negotiation ability",
-          "x10% incoming damage multiplier",
-          "x200% surgery success chance factor",
-          "x200% medical operation speed",
-          "x200% medical tend speed",
-          "x200% general labor speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Milira Expansion: YaoYao",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Milira_ArchotechProtection_YaoYao",
-      "name": "粉色超凡智能的庇护"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "She loves the people of the world, and wishes for rainbow-hued flowers to fall across it.",
-      "stats": [
-        "x99% incoming damage multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x99% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "米莉拉角色拓展 v1.1",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MiliraXianNeiyu_Love",
-      "name": "neiyuxian"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "When taking lethal damage or damage that would destroy a body part, if Tempest is above 0, negate the damage, repair all injuries, empty Tempest, and gain brief psychic invisibility.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "米莉拉角色拓展 v1.1",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MX_QH_Trait_LongBreath",
-      "name": "longbreath"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Qinghe's innate water-spirit protection. Includes Long Breath, Clear Flow, and Lotus Guardian: Long Breath triggers against lethal or part-destroying damage, negating the hit and repairing all injuries; Clear Flow automatically heals 2.5 HP of wounds every 180 ticks; Lotus Guardian provides a regenerating shield whose damage capacity scales with Tempest and whose regeneration scales with Elegance. The shield is disabled for 10 seconds after breaking.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "米莉拉角色拓展 v1.1",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MX_QH_Trait_WaterFairy",
-      "name": "waterfairy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is entombed in a mech master warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Timmy will be unable to do most tasks, except those necessary to maintain and build mechanoids.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Unknown",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_WarcasketTrait_Mech",
-      "name": "mechwarcasket"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has experienced the danger of a deadly cryptobiological organism. he is wary of its life cycle and the danger it poses.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alien | Rimworld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "XMT_Survivor",
-      "name": "survivor"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Placeholder trait for Luna Sesia's fixed identity and signature skill profile.",
       "stats": [
         "+20% global learning factor",
@@ -9091,6 +8565,1018 @@
       },
       "defName": "KiiroValor_Trait_ValorHero",
       "name": "valor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with low-tech equipment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_LowTechProficiency",
+      "name": "low-techproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with firearm equipment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_FirearmProficiency",
+      "name": "firearmproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with high-tech equipment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_HighTechProficiency",
+      "name": "high-techproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with animal riding.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_AnimalRidingProficiency",
+      "name": "animalriding"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with automobile driving.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_AutomobileDrivingProficiency",
+      "name": "automobiledriving"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with aerial piloting.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_AerialPilotingProficiency",
+      "name": "aerialpiloting"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with orbital piloting.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_OrbitalPilotingProficiency",
+      "name": "orbitalpiloting"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person has no understanding of language.",
+      "stats": [
+        "x0% social impact",
+        "x0% negotiation ability",
+        "x0% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x0% social impact",
+          "x0% negotiation ability",
+          "x0% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_MuteProficiency",
+      "name": "mute"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person has a basic understanding of language and can speak it with half effectiveness.",
+      "stats": [
+        "x75% social impact",
+        "x75% negotiation ability",
+        "x75% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x75% social impact",
+          "x75% negotiation ability",
+          "x75% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_BasicSpeechProficiency",
+      "name": "basicspeech"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person has a complete understanding of language and can speak it with full effectiveness.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_FluentSpeechProficiency",
+      "name": "fluentspeech"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy easily perceives foreign languages.",
+      "stats": [
+        "x200% language learning ability"
+      ],
+      "conflicts": [
+        "slowlearner"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowlearner"
+        ],
+        "stats": [
+          "x200% language learning ability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cybranian - Rim Languages",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Polyglot",
+      "name": "polyglot"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has experienced the danger of a deadly cryptobiological organism. he is wary of its life cycle and the danger it poses.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alien | Rimworld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "XMT_Survivor",
+      "name": "survivor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to use oversized weapons.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Giant",
+      "name": "giant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.35 skill learning (no passion)",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.35 skill learning (no passion)",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Passioned_Learning",
+      "name": "diligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.65 skill learning (no passion)",
+        "+30% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.65 skill learning (no passion)",
+          "+30% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Very_Passioned_Learning",
+      "name": "verydiligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There is something about Timmy that makes predators not consider them prey",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AnimalFriend",
+      "name": "animalfriend"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves alcohol. he will never stop being addicted to it.",
+      "stats": [
+        "+10% mental break threshold",
+        "x150% recreation power"
+      ],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "stats": [
+          "+10% mental break threshold",
+          "x150% recreation power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AlcoholAddict",
+      "name": "alcohollover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
+      "stats": [
+        "-20% mental break threshold"
+      ],
+      "conflicts": [
+        "abrasive",
+        "kind",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "kind",
+          "psychopath"
+        ],
+        "stats": [
+          "-20% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Gentle",
+      "name": "gentle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't react to insults or to either part failing a flirt attempt.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_InsultProof",
+      "name": "uninsultable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy isn't bothered by rough appearances, a bit of rough living. Timmy also doesn't care as much for royal titles.",
+      "stats": [],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "bodypurist",
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "bodypurist",
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Unpretentious",
+      "name": "unpretentious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
+      "stats": [
+        "x130% body size multipler",
+        "x110% construction speed",
+        "x90% move speed",
+        "x80% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x130% body size multipler",
+          "x110% construction speed",
+          "x90% move speed",
+          "x80% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gigantism",
+      "name": "gigantism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is both taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
+      "stats": [
+        "x115% body size multipler",
+        "x105% construction speed",
+        "x98% move speed",
+        "x95% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% body size multipler",
+          "x105% construction speed",
+          "x98% move speed",
+          "x95% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Large",
+      "name": "large"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a bit smaller than usual for their kind.",
+      "stats": [
+        "x80% body size multipler",
+        "x95% mining speed",
+        "x95% construction speed",
+        "x95% deep drilling speed",
+        "x93% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% body size multipler",
+          "x95% mining speed",
+          "x95% construction speed",
+          "x95% deep drilling speed",
+          "x93% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Small",
+      "name": "small"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is much smaller than usual for their kind.",
+      "stats": [
+        "x60% body size multipler",
+        "x75% mining speed",
+        "x75% construction speed",
+        "x75% deep drilling speed",
+        "x85% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% body size multipler",
+          "x75% mining speed",
+          "x75% construction speed",
+          "x75% deep drilling speed",
+          "x85% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Dwarfism",
+      "name": "dwarfism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is careful with his words, and will often choose to keep all kinds of news close to his heart.",
+      "stats": [
+        "-15.00% news spread tendency (NST)"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-15.00% news spread tendency (NST)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Desynchronized: Tales and News (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "NewsSpreadTendency",
+      "name": "secretkeeper"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy enjoys sharing his opinions on many topics with his friends, and will often tell others what he knows.",
+      "stats": [
+        "+15.00% news spread tendency (NST)"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+15.00% news spread tendency (NST)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Desynchronized: Tales and News (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "NewsSpreadTendency",
+      "name": "gossiper"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is entombed in a mech master warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Timmy will be unable to do most tasks, except those necessary to maintain and build mechanoids.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Unknown",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_WarcasketTrait_Mech",
+      "name": "mechwarcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a strong mind. he respects those who show signs of their hunt.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [
+        "wimp",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile",
+        "delicate"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile",
+          "delicate"
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[AB] Xenotype: Yautja",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ABYautjaWarriorsMindset",
+      "name": "warrior'smindset"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is an alien. Why should he care about human affairs?",
+      "stats": [],
+      "conflicts": [
+        "cannibal"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "cannibal"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[AB] Xenotype: Yautja",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ABYautjaAlien",
+      "name": "alien"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy believes that all life is equal. he doesn't believe that any race is above or below them.",
+      "stats": [
+        "Berserk mental state disabled.",
+        "Murderous rage mental state disabled.",
+        "Sadistic rage mental state disabled."
+      ],
+      "conflicts": [
+        "xenophobe",
+        "xenophile",
+        "greedy",
+        "jealous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "xenophobe",
+          "xenophile",
+          "greedy",
+          "jealous"
+        ],
+        "stats": [
+          "Berserk mental state disabled.",
+          "Murderous rage mental state disabled.",
+          "Sadistic rage mental state disabled."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[AB] Xenotype: Yautja",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ABYautja_NotXenophobic",
+      "name": "egalitarianist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy prefers shells over sleeves. he doesn’t care how often he switches shells or what shell he is currently riding, but will be unhappy in a sleeve.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon 2: ReSleeved",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AC_Shellwalker",
+      "name": "shellwalker"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has always seen his body as nothing more than a vessel. he does not care about the gender, age or looks of his body.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon 2: ReSleeved",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AC_FreeMind",
+      "name": "freemind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy can change his sleeves as easily as someone else may change their clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon 2: ReSleeved",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AC_Sleever",
+      "name": "sleever"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy underwent Coventech training to perfectly hone their control of mechanoids, making them exceedingly adept at finely coordinating their mechs even unassisted by gear. he Is extremely susceptible to psychic phenomena.",
+      "stats": [
+        "+100% psychic sensitivity",
+        "+25 mech bandwidth",
+        "x10% trap spring chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100% psychic sensitivity",
+          "+25 mech bandwidth",
+          "x10% trap spring chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "CVN Mechanoid Combined Arms Warfare",
+        "karmaTypeForAdding": null
+      },
+      "defName": "mechcommandertrait",
+      "name": "coventechmechcommandertraining"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy underwent Coventech training to recieve immense psychic abilities, turning them into a powerful caster, at a price. he Is somewhat unstable and very susceptible to psychic phenomena.",
+      "stats": [
+        "+220% psychic sensitivity",
+        "x10% trap spring chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+220% psychic sensitivity",
+          "x10% trap spring chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "CVN Mechanoid Combined Arms Warfare",
+        "karmaTypeForAdding": null
+      },
+      "defName": "cvnpsyop",
+      "name": "psychopathtraining"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy was given augmentations and training, creating a devistating force in melee combat, at a price. he is somewhat unstable and very poor with firearms.",
+      "stats": [
+        "+25.0 melee dodge chance",
+        "-8.0 weapon handling",
+        "+10% mental break threshold",
+        "x80% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25.0 melee dodge chance",
+          "-8.0 weapon handling",
+          "+10% mental break threshold",
+          "x80% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "CVN Mechanoid Combined Arms Warfare",
+        "karmaTypeForAdding": null
+      },
+      "defName": "darkwarriorop",
+      "name": "darkwarriortraining"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has been trained in agricultural and cullinary arts by coventech mechanoids more skilled than him, leading to a particularly effective colony grunt. he is also exceedingly enamored with anthropomorphic animals due to the immense trauma of being shown up by a toaster.",
+      "stats": [
+        "+30% global work speed",
+        "+30% plant harvest yield"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+30% global work speed",
+          "+30% plant harvest yield"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "CVN Mechanoid Combined Arms Warfare",
+        "karmaTypeForAdding": null
+      },
+      "defName": "furfuck",
+      "name": "\"furfuck\"operative"
     }
   ],
   "races": [
@@ -9301,6 +9787,111 @@
       "data": {
         "customName": false,
         "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "-50.0C Min comfortable temperature",
+          "+50.0C Max comfortable temperature",
+          "+80% Toxic resistance",
+          "+135% Immunity gain speed",
+          "+25 Leather amount",
+          "+100% Vacuum resistance",
+          "+100% Suppressability",
+          "+50% Smoke sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "Android",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+95% Melee critical chance",
+          "+95% Melee parry chance",
+          "+$850 Market value",
+          "+5.21 Move speed",
+          "-200.0C Min comfortable temperature",
+          "+300.0C Max comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+2 Armor - Sharp",
+          "+3 Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+75 Carrying capacity",
+          "+100% Vacuum resistance",
+          "+0% Smoke sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "price": 1417
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+0% Flammability",
+          "-0.4 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1900 Market value",
+          "+4.00 Move speed",
+          "-200.0C Min comfortable temperature",
+          "+500.0C Max comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+8 Armor - Sharp",
+          "+12 Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity",
+          "+100% Vacuum resistance",
+          "+0% Smoke sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battle droid",
+      "price": 3167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
           "+60.00 Mass",
           "+0% Flammability",
           "+3.5 Melee dodge chance",
@@ -9329,6 +9920,7 @@
           "+15 Meat amount",
           "+2.5% Stagger time multiplier",
           "+50% Melee cooldown",
+          "+12 Hereditary capacity",
           "+100% Vacuum resistance"
         ],
         "mod": "Unknown",
@@ -9398,6 +9990,7 @@
           "+15 Meat amount",
           "+2.5% Stagger time multiplier",
           "+50% Melee cooldown",
+          "+22 Hereditary capacity",
           "+100% Vacuum resistance",
           "+0% Suppressability",
           "+75% Global work speed",
@@ -9411,6 +10004,380 @@
       "enabled": true,
       "name": "queen",
       "price": 486083
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "+10.0C Min comfortable temperature",
+          "+40.0C Max comfortable temperature",
+          "+0 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness",
+          "+75% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+0% Fertility",
+          "+0.5 Flirt chance",
+          "+120% Global learning factor",
+          "+0 Meat amount",
+          "+1.58 Max nutrition",
+          "+80 Carrying capacity",
+          "+100.00 kg Mass carry capacity",
+          "+200% Vacuum resistance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mechanical lifeform with a design born from early attempts at developing AI Persona by emulating a human mind. It is made mostly out of metals and synthetical components.\n\nThis design is especially rugged, but the design of its body prevents it from wearing non-loose clothing and armor\n\nRequires a purified chemfuel product to function.",
+      "defName": "BS_CommandoBot",
+      "enabled": true,
+      "name": "Steel Enforcer",
+      "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "+12.0C Min comfortable temperature",
+          "+40.0C Max comfortable temperature",
+          "+0 Leather amount",
+          "+1 Honor value",
+          "+75% Wildness",
+          "+200% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+0% Fertility",
+          "+105% Head size multiplier",
+          "+85% Body size multipler",
+          "+0 Meat amount",
+          "+75% Incoming damage multiplier",
+          "+0.5 Flirt chance",
+          "-100% per day Slave suppression fall rate",
+          "+200% Vacuum resistance",
+          "+1 Max nutrition",
+          "+50 Carrying capacity",
+          "+90% Global work speed",
+          "+100% Global learning factor",
+          "+1.0 Battery charging",
+          "+50.0% Armor - Heat",
+          "+0.05 Armor - Blunt",
+          "+0.32 Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A new take on early attempts at mechanical lifeforms. These androids have a fair number of built-in programs for basic survival situations, but have very limited ability to improve beyond that point.\n\nThey are fairly sturdy for a rolling television, but tend to be disabled easily when injured.",
+      "defName": "BS_TVAndroid_Sapient",
+      "enabled": true,
+      "name": "erratic ad-bot",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "+12.0C Min comfortable temperature",
+          "+40.0C Max comfortable temperature",
+          "+0 Leather amount",
+          "+1 Honor value",
+          "+75% Wildness",
+          "+200% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+0% Fertility",
+          "+105% Head size multiplier",
+          "+85% Body size multipler",
+          "+0 Meat amount",
+          "+75% Incoming damage multiplier",
+          "+0.5 Flirt chance",
+          "-100% per day Slave suppression fall rate",
+          "+200% Vacuum resistance",
+          "+1 Max nutrition",
+          "+50 Carrying capacity",
+          "+90% Global work speed",
+          "+100% Global learning factor",
+          "+1.0 Battery charging",
+          "+50.0% Armor - Heat",
+          "+0.05 Armor - Blunt",
+          "+0.32 Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A new take on early attempts at mechanical lifeforms. These androids have a fair number of built-in programs for basic survival situations, but have very limited ability to improve beyond that point.\n\nThey are fairly sturdy for a rolling television, but tend to be disabled easily when injured.",
+      "defName": "BS_TVAndroid",
+      "enabled": true,
+      "name": "ad-bot",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "+10.0C Min comfortable temperature",
+          "+40.0C Max comfortable temperature",
+          "+0 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness",
+          "+75% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+0% Fertility",
+          "+0.5 Flirt chance",
+          "+120% Global learning factor",
+          "+0 Meat amount",
+          "+1.58 Max nutrition",
+          "+80 Carrying capacity",
+          "+100.00 kg Mass carry capacity",
+          "+200% Vacuum resistance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mechanical lifeform with a design were born from early attempts at developing AI Persona by emulating a human using engineering. It is made mostly out of metals and synthetical components.\n\nThis design is especially rugged, but the design of its body prevents it from wearing non-loose clothing and armor.\n\nThis one appears to be no more sophisticated than an advanced mechanoid however.",
+      "defName": "BS_CommandoBot_NonSapient",
+      "enabled": true,
+      "name": "Automated Enforcer",
+      "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "+10.0C Min comfortable temperature",
+          "+40.0C Max comfortable temperature",
+          "+0 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness",
+          "+75% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+0% Fertility",
+          "+0.5 Flirt chance",
+          "+120% Global learning factor",
+          "+0 Meat amount",
+          "+1.58 Max nutrition",
+          "+80 Carrying capacity",
+          "+100.00 kg Mass carry capacity",
+          "+200% Vacuum resistance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mechanical lifeform with a design born from early attempts at developing AI Persona by emulating a human mind. It is made mostly out of metals and synthetical components.\n\nThis design is especially rugged, but the design of its body prevents it from wearing non-loose clothing and armor\n\nRequires a purified chemfuel product to function.",
+      "defName": "BS_CommandoBotPersona",
+      "enabled": true,
+      "name": "Steel Persona",
+      "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "+10.0C Min comfortable temperature",
+          "+40.0C Max comfortable temperature",
+          "+0 Leather amount",
+          "+3 Honor value",
+          "+75% Wildness",
+          "+75% Psychic sensitivity",
+          "+100% Toxic resistance",
+          "+0% Fertility",
+          "+0.5 Flirt chance",
+          "+120% Global learning factor",
+          "+0 Meat amount",
+          "+1.58 Max nutrition",
+          "+80 Carrying capacity",
+          "+100.00 kg Mass carry capacity",
+          "+200% Vacuum resistance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "This is a creature largely composed of highly ruggedized machinery.",
+      "defName": "BS_UrbMech",
+      "enabled": true,
+      "name": "mech",
+      "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+85.00 Mass",
+          "+60% Flammability",
+          "+2.1 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
+          "+$3500 Market value",
+          "+5.50 Move speed",
+          "+15.0C Min comfortable temperature",
+          "+94.0C Max comfortable temperature",
+          "+55 Leather amount",
+          "+200 Carrying capacity",
+          "+75% Aiming time",
+          "+2.5% Mental break threshold",
+          "+125% Immunity gain speed",
+          "+90% Pain shock threshold",
+          "+105% Global learning factor",
+          "+5 Terror",
+          "+900% per day Slave suppression fall rate",
+          "+1.1 Melee hit chance",
+          "+50.00% Negotiation ability",
+          "+50.00% Social impact",
+          "+50.00% Trade price improvement",
+          "+130% Butchery speed",
+          "+130% Butchery efficiency"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A baseline yautja, unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "ABAlien_Yautja",
+      "enabled": true,
+      "name": "Yautja",
+      "price": 5833
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+0.0 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
+          "+$1750 Market value",
+          "+4.70 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+24.0C Max comfortable temperature",
+          "+40 Leather amount",
+          "+2 Honor value",
+          "+50 Carrying capacity",
+          "+120% Psychic sensitivity",
+          "+130.00% Tame animal chance",
+          "+130.00% Train animal chance",
+          "+130% Plant work speed",
+          "+130% Hunting stealth",
+          "+130% Butchery speed",
+          "+70% Pain shock threshold"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of amphibian-like aliens.",
+      "defName": "CaeruleanRace",
+      "enabled": true,
+      "name": "caerulean",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+0.0 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+50 Leather amount",
+          "+2 Honor value",
+          "+130% Mining speed",
+          "+130% Construction speed",
+          "+130% Smelting speed",
+          "+70% Research speed",
+          "+70% Medical operation speed",
+          "+70% Medical tend speed",
+          "+70% Drug synthesis speed",
+          "+85 Carrying capacity",
+          "+120% Eating speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of brutish aliens.",
+      "defName": "GrodanRace",
+      "enabled": true,
+      "name": "grodan",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+0.0 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+50 Leather amount",
+          "+2 Honor value",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement",
+          "+120.00% Social impact",
+          "+120% Research speed",
+          "+120% Drug cooking speed",
+          "+120% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+70% Mining speed",
+          "+70% Smoothing speed",
+          "+70% Construction speed",
+          "+70% Plant work speed",
+          "+80% Rest rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of above average intelligent aliens.",
+      "defName": "XotanRace",
+      "enabled": true,
+      "name": "xotan",
+      "price": 2917
     }
   ]
 }
