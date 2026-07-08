@@ -234,6 +234,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Apparel Tweaks",
     "steamId": "2296697286",
@@ -266,6 +272,12 @@
   {
     "author": "Dubwise",
     "name": "Dubs Rimkit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vambypants",
+    "name": "Epic Rivers",
     "steamId": null,
     "version": null
   },
@@ -336,12 +348,6 @@
     "version": null
   },
   {
-    "author": "Sam",
-    "name": "Health Display",
-    "steamId": "3522897532",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -372,6 +378,12 @@
     "version": null
   },
   {
+    "author": "mod5s",
+    "name": "Matter Manipulator",
+    "steamId": "2868495491",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
@@ -394,12 +406,6 @@
     "name": "More Gene Complexity",
     "steamId": "2876012466",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Darkborderman",
-    "name": "More Genes",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Doug",
@@ -504,12 +510,6 @@
     "version": "1.0.0+5b32e05947cae03e61dfdefe6f78a32e5c98b235"
   },
   {
-    "author": " Original author: Captain Muscles (Nathan Harbour)\r\n    Since this fork: Arodoid\r\n    ",
-    "name": "Semi Random Research: Progression Fork",
-    "steamId": "3505290557",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "pb3n and Taranchuk",
     "name": "Simple Warrants",
     "steamId": "2676828755",
@@ -520,6 +520,12 @@
     "name": "SimpleCameraSetting",
     "steamId": "3232415388",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Some Things Float",
+    "steamId": "2940072380",
+    "version": "1.6.22"
   },
   {
     "author": "Defi",
@@ -650,12 +656,6 @@
   {
     "author": "GetDonkedOn",
     "name": "Ambition of the Cosmic: Combat Extended Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "yotphiligan",
-    "name": "Better Health Tab with Health Display",
     "steamId": null,
     "version": null
   },

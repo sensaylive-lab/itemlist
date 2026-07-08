@@ -33983,7 +33983,37 @@
       "category": "Eggs (fert.)",
       "defname": "EggVultureDemigryphFertilized",
       "price": 167
+    },
+    {
+      "abr": "archotechmattermanipulator",
+      "category": "Melee weapons",
+      "defname": "Matter_Manipulator_Archotech",
+      "price": 20000
+    },
+    {
+      "abr": "manipulationcore",
+      "category": "Archotech",
+      "defname": "Manipulation_Core_Implant",
+      "price": 16667
+    },
+    {
+      "abr": "mattermanipulator",
+      "category": "Ranged weapons",
+      "defname": "Matter_Manipulator_Standard",
+      "price": 11667
+    },
+    {
+      "abr": "mattermanipulatorprototype",
+      "category": "Ranged weapons",
+      "defname": "Matter_Manipulator_Prototype",
+      "price": 5000
+    },
+    {
+      "abr": "ultramattermanipulator",
+      "category": "Ranged weapons",
+      "defname": "Matter_Manipulator_Ultra",
+      "price": 16667
     }
   ],
-  "total": 5664
+  "total": 5669
 }
