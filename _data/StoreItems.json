@@ -34013,7 +34013,337 @@
       "category": "Ranged weapons",
       "defname": "Matter_Manipulator_Ultra",
       "price": 16667
+    },
+    {
+      "abr": "autoclave",
+      "category": "Oil",
+      "defname": "Autoclave",
+      "price": 1108
+    },
+    {
+      "abr": "barrel",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Barrel",
+      "price": 171
+    },
+    {
+      "abr": "barrelpile",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Barrel_Pile",
+      "price": 342
+    },
+    {
+      "abr": "basket",
+      "category": "Furniture",
+      "defname": "JDS_Basket",
+      "price": 104
+    },
+    {
+      "abr": "bundleswrap",
+      "category": "Furniture",
+      "defname": "JDS_Bundles_Wrap",
+      "price": 41
+    },
+    {
+      "abr": "chemfuelpowerplant",
+      "category": "Oil",
+      "defname": "FuelPowerplant",
+      "price": 1558
+    },
+    {
+      "abr": "chemfuelpump",
+      "category": "Oil",
+      "defname": "ChemfuelHopper",
+      "price": 49
+    },
+    {
+      "abr": "chemfuelpump",
+      "category": "Furniture",
+      "defname": "JDS_ChemfuelPump",
+      "price": 164
+    },
+    {
+      "abr": "chemfuelsiphon",
+      "category": "Oil",
+      "defname": "ChemfuelSiphon",
+      "price": 49
+    },
+    {
+      "abr": "cratea4",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Crate_four",
+      "price": 2667
+    },
+    {
+      "abr": "crateforadvancedcomponents",
+      "category": "Furniture",
+      "defname": "JDS_6ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "crateforbeer",
+      "category": "Furniture",
+      "defname": "JDSBeer_Crate",
+      "price": 61
+    },
+    {
+      "abr": "crateforcomponents",
+      "category": "Furniture",
+      "defname": "JDS_5ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "crateforgold",
+      "category": "Furniture",
+      "defname": "JDS_8ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "crateforjade",
+      "category": "Furniture",
+      "defname": "JDS_9ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "crateforleather",
+      "category": "Furniture",
+      "defname": "JDS_4ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "crateforplasteel",
+      "category": "Furniture",
+      "defname": "JDS_10ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "crateforsteel",
+      "category": "Furniture",
+      "defname": "JDS_2ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "cratefortextiles",
+      "category": "Furniture",
+      "defname": "JDS_3ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "crateforuranium",
+      "category": "Furniture",
+      "defname": "JDS_7ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "crateforwoodlog",
+      "category": "Furniture",
+      "defname": "JDS_1ResourcesCrate",
+      "price": 34
+    },
+    {
+      "abr": "double-doorrefrigerator",
+      "category": "Furniture",
+      "defname": "JDS_Refrigerator",
+      "price": 800
+    },
+    {
+      "abr": "electricwelder",
+      "category": "Walker module",
+      "defname": "PWL_Module_Welder",
+      "price": 1000
+    },
+    {
+      "abr": "filesshelf",
+      "category": "Furniture",
+      "defname": "JDS_File_Shelf",
+      "price": 667
+    },
+    {
+      "abr": "fsxrefiner",
+      "category": "Oil",
+      "defname": "CombatExtendedFsxRefiner",
+      "price": 758
+    },
+    {
+      "abr": "hyperweaverefiner",
+      "category": "Oil",
+      "defname": "HyperweaveRefiner",
+      "price": 2075
+    },
+    {
+      "abr": "industrialshelf(full)",
+      "category": "Furniture",
+      "defname": "JDSIndustrial_shelf",
+      "price": 3283
+    },
+    {
+      "abr": "largelocker",
+      "category": "Furniture",
+      "defname": "JDSLarge_locker",
+      "price": 633
+    },
+    {
+      "abr": "medstorage",
+      "category": "Furniture",
+      "defname": "JDS_Med_Storage",
+      "price": 320
+    },
+    {
+      "abr": "metalcratesmallpile",
+      "category": "Furniture",
+      "defname": "JDS_Metal_Crate_Small_Pile",
+      "price": 320
+    },
+    {
+      "abr": "metalshelfa(full)",
+      "category": "Furniture",
+      "defname": "JDSMetal_Shelf_A_Full",
+      "price": 800
+    },
+    {
+      "abr": "metalshelfb(full)",
+      "category": "Furniture",
+      "defname": "JDSMetal_Shelf_B_Full",
+      "price": 800
+    },
+    {
+      "abr": "militarygradecratelarge",
+      "category": "Furniture",
+      "defname": "JDSMilitary_Grade_crate_Large",
+      "price": 617
+    },
+    {
+      "abr": "militarygradecratesmall",
+      "category": "Furniture",
+      "defname": "JDSMilitaryGradeCrateSmall",
+      "price": 327
+    },
+    {
+      "abr": "neutroaminerefiner",
+      "category": "Oil",
+      "defname": "NeutroamineRefiner",
+      "price": 1583
+    },
+    {
+      "abr": "palletcrate",
+      "category": "Furniture",
+      "defname": "JDSPallet_Crate",
+      "price": 333
+    },
+    {
+      "abr": "pipelinevalve",
+      "category": "Oil",
+      "defname": "pipelineValve",
+      "price": 50
+    },
+    {
+      "abr": "poweredimpactdrill",
+      "category": "Walker module",
+      "defname": "PWL_Module_Drill",
+      "price": 633
+    },
+    {
+      "abr": "poweredloaderclaw",
+      "category": "Walker module",
+      "defname": "PWL_Module_Claw",
+      "price": 400
+    },
+    {
+      "abr": "poweredworkloader(module)",
+      "category": "Walker module",
+      "defname": "PWL_Module_Core",
+      "price": 2692
+    },
+    {
+      "abr": "prometheumbomb",
+      "category": "Oil",
+      "defname": "NapalmBomb",
+      "price": 52
+    },
+    {
+      "abr": "prometheumrefiner",
+      "category": "Oil",
+      "defname": "NapalmRefiner",
+      "price": 758
+    },
+    {
+      "abr": "refineryunloadingbay",
+      "category": "Oil",
+      "defname": "RefineryLoadingBay",
+      "price": 49
+    },
+    {
+      "abr": "resourceconsole",
+      "category": "Oil",
+      "defname": "ResourceConsole",
+      "price": 642
+    },
+    {
+      "abr": "safe",
+      "category": "Furniture",
+      "defname": "JDSSafe",
+      "price": 320
+    },
+    {
+      "abr": "shelfa(full)",
+      "category": "Furniture",
+      "defname": "JDSShelf_A_Full",
+      "price": 433
+    },
+    {
+      "abr": "smallerlocker",
+      "category": "Furniture",
+      "defname": "JDSmaller_locker",
+      "price": 162
+    },
+    {
+      "abr": "synthamiderefiner",
+      "category": "Oil",
+      "defname": "SynthamideRefiner",
+      "price": 1167
+    },
+    {
+      "abr": "synthreadrefiner",
+      "category": "Oil",
+      "defname": "SynthreadRefiner",
+      "price": 808
+    },
+    {
+      "abr": "synthylenerefiner",
+      "category": "Oil",
+      "defname": "SynthyleneRefiner",
+      "price": 758
+    },
+    {
+      "abr": "uncuredplasteel",
+      "category": "Raw resources",
+      "defname": "UncuredPlasteel",
+      "price": 3
+    },
+    {
+      "abr": "uncuredsynthamidecomposite",
+      "category": "Synthamide",
+      "defname": "UncuredComposite",
+      "price": 3
+    },
+    {
+      "abr": "wheelbarrow",
+      "category": "Furniture",
+      "defname": "JDSwheelbarrow",
+      "price": 51
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
+    },
+    {
+      "abr": "zombgrella",
+      "category": "Misc",
+      "defname": "Zombgrella",
+      "price": 642
     }
   ],
-  "total": 5669
+  "total": 5724
 }
