@@ -381,7 +381,7 @@
     "author": "Roolo, Owlchemist, dav9670 and Meme Goddess",
     "name": "Giddy-Up 2 - Continued",
     "steamId": "3674332861",
-    "version": "1.6+34a642d6adcb19bb36f6ea347fc134195a7526a7"
+    "version": "1.6+7ceade99741dac6db76b204ca0c8d3bb7a34a293"
   },
   {
     "author": "Xavior",
@@ -494,6 +494,12 @@
   {
     "author": "Pesky",
     "name": "Pesky's Archotech Exosuit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cocaine™",
+    "name": "Plant all trees in all biomes",
     "steamId": null,
     "version": null
   },

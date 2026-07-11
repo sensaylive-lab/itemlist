@@ -104879,26 +104879,6 @@
     "Mod": "Rimefeller",
     "KarmaType": null
   },
-  "Milira_glasses": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "瓦莱丽的米莉拉扩展包",
-    "KarmaType": null
-  },
   "Milira_RailShotgun": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -104917,6 +104897,26 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Milira Faction: Milira Imperium",
+    "KarmaType": null
+  },
+  "Milira_glasses": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "瓦莱丽的米莉拉扩展包",
     "KarmaType": null
   }
 }
