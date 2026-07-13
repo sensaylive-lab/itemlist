@@ -34333,6 +34333,42 @@
       "price": 51
     },
     {
+      "abr": "archotechdeepdrill",
+      "category": "Production",
+      "defname": "MBDD_ArchotechDeepDrill",
+      "price": 3425
+    },
+    {
+      "abr": "archotechsprinkler",
+      "category": "Special",
+      "defname": "MAG_VFE_ArchotechSprinkler",
+      "price": 1667
+    },
+    {
+      "abr": "largedeepdrill",
+      "category": "Production",
+      "defname": "MBDD_LargeDeepDrill",
+      "price": 7133
+    },
+    {
+      "abr": "rangeddeepdrill",
+      "category": "Production",
+      "defname": "MBDD_RangedDeepDrill",
+      "price": 1542
+    },
+    {
+      "abr": "scarecrow",
+      "category": "Misc",
+      "defname": "VFE_Scarecrow",
+      "price": 129
+    },
+    {
+      "abr": "sprinkler",
+      "category": "Misc",
+      "defname": "VFE_Sprinkler",
+      "price": 182
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -34345,5 +34381,5 @@
       "price": 642
     }
   ],
-  "total": 5724
+  "total": 5730
 }

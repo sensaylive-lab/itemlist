@@ -450,6 +450,12 @@
     "version": "1.0.1.0"
   },
   {
+    "author": "DarthCY",
+    "name": "More and Better Deep Drill",
+    "steamId": "3378527302",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "beautifuldevil",
     "name": "More Exosuit Ammo Backpacks",
     "steamId": null,
@@ -700,6 +706,12 @@
     "name": "Vanilla Furniture Expanded - Factory",
     "steamId": "3686924415",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg",
@@ -1132,12 +1144,6 @@
     "name": "Dellin's Milira Attire Expaned",
     "steamId": "3648344084",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Ariandel",
-    "name": "Male Milira Expanded",
-    "steamId": "3565014114",
-    "version": "0.0.0.0"
   },
   {
     "author": "pntfvur",
