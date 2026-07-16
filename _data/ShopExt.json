@@ -447,12 +447,16 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has no sexual attraction to anyone at all.",
-      "stats": [],
+      "stats": [
+        "-200.00% corruption vulnerability"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "-200.00% corruption vulnerability"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -713,7 +717,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts and xenogenes are unethical and disgusting.",
-      "stats": [],
+      "stats": [
+        "-10.00% sex drive"
+      ],
       "conflicts": [
         "bodymodder"
       ],
@@ -722,7 +728,9 @@
         "conflicts": [
           "bodymodder"
         ],
-        "stats": [],
+        "stats": [
+          "-10.00% sex drive"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -995,12 +1003,16 @@
       "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "stats": [],
+      "stats": [
+        "+30.00% corruption vulnerability"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+30.00% corruption vulnerability"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1017,12 +1029,16 @@
       "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "stats": [],
+      "stats": [
+        "+15.00% corruption vulnerability"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+15.00% corruption vulnerability"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -5733,6 +5749,1424 @@
       },
       "defName": "Force_FormVII_JuyoVaapad",
       "name": "juyo/vaapadmaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy don't care about the awful bedroom environment.",
+      "stats": [],
+      "conflicts": [
+        "ascetic",
+        "greedy",
+        "jealous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ascetic",
+          "greedy",
+          "jealous"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ratkin Gene Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RKTrait_YunDanFengQing",
+      "name": "takeiteasy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves to sleep and always feels like he hasn't had enough rest.",
+      "stats": [
+        "-20% rest rate multiplier"
+      ],
+      "conflicts": [
+        "quicksleeper",
+        "greedycat"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "quicksleeper",
+          "greedycat"
+        ],
+        "stats": [
+          "-20% rest rate multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LazyCat",
+      "name": "lazycat"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy always carries a lot of snacks with he, and he never stops munching on them.",
+      "stats": [
+        "Only mental break \"Binging_Food\" allowed.",
+        "+2 cooking"
+      ],
+      "conflicts": [
+        "gourmand",
+        "lazycat"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "gourmand",
+          "lazycat"
+        ],
+        "stats": [
+          "Only mental break \"Binging_Food\" allowed.",
+          "+2 cooking"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GreedyCat",
+      "name": "greedycat"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "From some experience, Timmy is very afraid of fire.",
+      "stats": [
+        "-5 cooking"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-5 cooking"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FireFear",
+      "name": "firefear"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "PAWN nameDef has innate resistance to toxic.",
+      "stats": [
+        "+25% toxic environment resistance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% toxic environment resistance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ToxicResistance",
+      "name": "toxicresistance"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has exceptional eyesight.",
+      "stats": [
+        "+2 shooting",
+        "+8.0 weapon handling"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 shooting",
+          "+8.0 weapon handling"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SharpEye",
+      "name": "sharpeye"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's body has suffered severe wound that has caused irreparable damage.",
+      "stats": [
+        "-0.15 move speed",
+        "-8% pain shock threshold",
+        "x105% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-0.15 move speed",
+          "-8% pain shock threshold",
+          "x105% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OldWound",
+      "name": "oldwound"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a valor supported by kiiros.",
+      "stats": [
+        "+5 melee",
+        "+25.00% social impact",
+        "+0.40 move speed",
+        "+20% pain shock threshold",
+        "-30% mental break threshold",
+        "+10.0 melee dodge chance",
+        "+5.0 melee hit chance",
+        "-20% sleep fall rate",
+        "+12% injury healing factor",
+        "x50% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 melee",
+          "+25.00% social impact",
+          "+0.40 move speed",
+          "+20% pain shock threshold",
+          "-30% mental break threshold",
+          "+10.0 melee dodge chance",
+          "+5.0 melee hit chance",
+          "-20% sleep fall rate",
+          "+12% injury healing factor",
+          "x50% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KittyValor",
+      "name": "kittyvalor!"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "黑暗修女原本曾是喜爱和平的鼠族修女，但源源不断的敌人摧毁了她曾经的信念，她召唤“超凡智鼠”降临，要把来袭的敌人全部葬送于此",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "Minimal meditation focus type allowed.",
+        "Flame meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Natural meditation focus type allowed.",
+        "Void meditation focus type allowed.",
+        "+20 shooting",
+        "+20 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "Minimal meditation focus type allowed.",
+          "Flame meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Natural meditation focus type allowed.",
+          "Void meditation focus type allowed.",
+          "+20 shooting",
+          "+20 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_4_1_Trait",
+      "name": "黑暗修女"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“夺宝鼠”能力的鼠鼠。\n\n她们受灵能仿生尾的影响，喜欢呆在地下挖矿，只要呆在地下，她们就会开心的吱吱乱叫",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+2 construction",
+        "+4 mining"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+2 construction",
+          "+4 mining"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_1_Trait",
+      "name": "夺宝鼠"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“鼠族刺客”能力的鼠鼠。\n\n她们在隐身的时候喜欢做出一些中二举动，比如说舔匕首之类的动作，但在显形之后往往会装出一副高冷的模样，和隐身时判若两人",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+2 shooting",
+        "+4 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+2 shooting",
+          "+4 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_2_Trait",
+      "name": "鼠族刺客"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“禁忌法师”能力的鼠鼠。\n\n禁忌法师们常常会做一些令人畏惧的小研究，但和她们熟悉之后就知道，她们正经研究的内容更加可怕",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Void meditation focus type allowed.",
+        "+3 crafting",
+        "+3 intellectual"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Void meditation focus type allowed.",
+          "+3 crafting",
+          "+3 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_3_Trait",
+      "name": "禁忌法师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“鼠族修女”能力的鼠鼠。\n\n鼠族修女们是一群香香软软的大姐姐（或者男姐姐），甚至有人会自己弄伤自己来让鼠鼠们帮忙治疗",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+5 medical",
+        "+1 social"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+5 medical",
+          "+1 social"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_4_Trait",
+      "name": "鼠族修女"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“鼠族法师”能力的鼠鼠。\n\n她们是神秘且强大的法师，最大的爱好就是聚在一起解灵能数学题，嘴里常常念叨着“折跃能力的五种用法”，“精神力的波动曲线”之类的听不懂的话",
+      "stats": [
+        "Flame meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Void meditation focus type allowed.",
+        "+6 intellectual"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Flame meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Void meditation focus type allowed.",
+          "+6 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_5_Trait",
+      "name": "鼠族法师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“鼠族战士”能力的鼠鼠。\n\n鼠族战士们战斗的时候常常丢掉大脑，砍人越多就越开心，虽然她们总是自诩为“最具近身格斗智慧”的职业，但大家都清楚她们只是砍顺手了",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Void meditation focus type allowed.",
+        "+6 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Void meditation focus type allowed.",
+          "+6 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_6_Trait",
+      "name": "鼠族战士"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“鼠族萨满”能力的鼠鼠。\n\n鼠族萨满们都是鼠族里的舞蹈生，她们最喜欢的事就是让别人看她们的祭祀舞蹈，虽然有时候看起来并不那么美观",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Flame meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Natural meditation focus type allowed.",
+        "+3 crafting",
+        "+3 artistic"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Flame meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Natural meditation focus type allowed.",
+          "+3 crafting",
+          "+3 artistic"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_7_Trait",
+      "name": "鼠族萨满"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“战斗萨满”能力的鼠鼠。\n\n战斗萨满们经常和鼠族战士们聚在一起讨论格斗的技巧，但因为她们认为枪械的使用也是格斗技巧的一环，所以常常在讨论到“食大便了”之类的话题时就不欢而散了",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Flame meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Natural meditation focus type allowed.",
+        "+2 shooting",
+        "+2 melee",
+        "+2 artistic"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Flame meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Natural meditation focus type allowed.",
+          "+2 shooting",
+          "+2 melee",
+          "+2 artistic"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_8_Trait",
+      "name": "战斗萨满"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“心熵法师”能力的鼠鼠。\n\n心熵法师们很清楚心灵熵也极其重要，因此她们会去指导其他小鼠尽量降低心灵熵的消耗，聪明的小鼠们都知道她们这一套自己学不了，但还是时常会有一些单纯的小鼠被她们忽悠，结果烧坏了脑子被送进鼠族医院",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Void meditation focus type allowed.",
+        "+2 shooting",
+        "+4 intellectual"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Void meditation focus type allowed.",
+          "+2 shooting",
+          "+4 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_9_Trait",
+      "name": "心熵法师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“鼠族后勤”能力的鼠鼠。\n\n她们负责着整个鼠族后勤的运作，她们常常称自己是最重要的职业，要是她们说这话的时候不是在摸鱼就更有说服力了",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+4 crafting",
+        "+2 artistic"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+4 crafting",
+          "+2 artistic"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_10_Trait",
+      "name": "鼠族后勤"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了战争堡垒能力的鼠鼠。\n\n她们是战争中可以一锤定音的职业，是战场上可怕的杀戮机器，但日常里她们却很平易近人，经常请路边的陌生鼠鼠看“烟花”，大家都很开心",
+      "stats": [
+        "Flame meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+6 shooting"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Flame meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+6 shooting"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_11_Trait",
+      "name": "战争堡垒"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“灵媒师”能力的鼠鼠。\n\n灵媒师们可以获取其他职业的能力，因此很多还没有选择职业的小鼠们都会来请她们点评，看看自己适合哪种职业，但她们其实很不专业，所以在她们指点之后，鼠鼠之间就会莫名出现一些“夺宝鼠一辈子都是挖矿的命”，“鼠族战士们都是没脑子的大只鼠”之类的传言",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "Minimal meditation focus type allowed.",
+        "Flame meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Natural meditation focus type allowed.",
+        "Void meditation focus type allowed.",
+        "+1 shooting",
+        "+1 melee",
+        "+1 construction",
+        "+1 mining",
+        "+1 cooking",
+        "+1 plants",
+        "+1 animals",
+        "+1 crafting",
+        "+1 artistic",
+        "+1 medical",
+        "+1 social",
+        "+1 intellectual"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "Minimal meditation focus type allowed.",
+          "Flame meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Natural meditation focus type allowed.",
+          "Void meditation focus type allowed.",
+          "+1 shooting",
+          "+1 melee",
+          "+1 construction",
+          "+1 mining",
+          "+1 cooking",
+          "+1 plants",
+          "+1 animals",
+          "+1 crafting",
+          "+1 artistic",
+          "+1 medical",
+          "+1 social",
+          "+1 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_12_Trait",
+      "name": "灵媒师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“气象师”能力的鼠鼠。\n\n作为鼠族里的新型职业，有很多人都抱着先喝头一口汤的想法选择了这个职业，但很快她们就发现了，原来她们只是一个天气预报员，在预报又冲突时还经常要和同事们抢天气",
+      "stats": [
+        "Flame meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Natural meditation focus type allowed.",
+        "+3 shooting",
+        "+2 melee",
+        "+1 intellectual"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Flame meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Natural meditation focus type allowed.",
+          "+3 shooting",
+          "+2 melee",
+          "+1 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_13_Trait",
+      "name": "气象师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“空间法师”能力的鼠鼠。\n\n空间法师精通折跃能力，但好像经常会出现折跃失误的情况，反正每个折跃进鼠族仓库的鼠鼠都是这样说的",
+      "stats": [
+        "Flame meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Void meditation focus type allowed.",
+        "+3 shooting",
+        "+3 intellectual"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Flame meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Void meditation focus type allowed.",
+          "+3 shooting",
+          "+3 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_15_Trait",
+      "name": "空间法师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“驯兽师”能力的鼠鼠。\n\n驯兽师们曾经也是战场上叱诧风云的灵能大师，但自从机械族上位之后，她们便不再上战场了，每位驯兽师都被分配到各地担任动物园园长\n\n“想让我重新回军队？拜托，这个园长位置超舒服的”",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Natural meditation focus type allowed.",
+        "+4 animals",
+        "+2 cooking"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Natural meditation focus type allowed.",
+          "+4 animals",
+          "+2 cooking"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_17_Trait",
+      "name": "驯兽师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“机械师”能力的鼠鼠。\n\n机械师们的出现很快取代了驯兽师，成为灵鼠族最前线的主力职业，当然，机械族的钢铁洪流需要大量的资源才能建立起来，因此在物资匮乏的边缘世界，机械师能发挥出的实力有限\n\n“你再多给一些资源，你要鼠儿跑，就一定要让鼠儿吃上甜甜的糖果”",
+      "stats": [
+        "Artistic meditation focus type allowed.",
+        "+6 crafting"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Artistic meditation focus type allowed.",
+          "+6 crafting"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_18_Trait",
+      "name": "机械师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“基因战士”能力的鼠鼠。\n\n基因战士是灵鼠族基因实验的产物，她们受到仿生尾的影响，基因变得极度不稳定，可以随时改变自身的基因，由于其基因的可变型，该职业在多种场合都有应用场景，因此“基因战士”成为当下最受普通鼠鼠欢迎的职业\n\n“刚刚看了恐怖电影《变鼠人》，也不过如此，我也会变捏”",
+      "stats": [
+        "Artistic meditation focus type allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Artistic meditation focus type allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_19_Trait",
+      "name": "基因战士"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“灵能食尸鬼”能力的鼠鼠。",
+      "stats": [
+        "Artistic meditation focus type allowed.",
+        "+8 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Artistic meditation focus type allowed.",
+          "+8 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_20_Trait",
+      "name": "灵能食尸鬼"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“鼠族剑仙”能力的鼠鼠。\n\n“御剑乘风去，除魔天地间”\n\n“只要秉持心中正道，我的魔剑又何尝不是正义之剑”",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+6 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+6 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_21_Trait",
+      "name": "鼠族剑仙"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Placeholder trait for Luna Sesia's fixed identity and signature skill profile.",
+      "stats": [
+        "+20% global learning factor",
+        "+20% psychic sensitivity",
+        "x120% research speed",
+        "x110% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% global learning factor",
+          "+20% psychic sensitivity",
+          "x120% research speed",
+          "x110% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Faction: Valor",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KiiroValor_Trait_LunaStargazer",
+      "name": "stargazer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has exceptional talent for cooking and a miraculous culinary touch that can turn the ordinary into something amazing. She is usually lazy and not especially eager to cook, but once she starts, everything she makes ends up tasting suspiciously good.\n\n\"I just threw something together... why is everyone looking at me like that?\"",
+      "stats": [
+        "x50% food poison chance",
+        "x140% cooking speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x50% food poison chance",
+          "x140% cooking speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Faction: Valor",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KiiroValor_Trait_SolenaChef",
+      "name": "valorchef"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Placeholder.",
+      "stats": [
+        "+0.15 move speed",
+        "+15% global learning factor",
+        "+10% pain shock threshold",
+        "+20 carrying capacity",
+        "+2.0 melee dodge chance",
+        "x90% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.15 move speed",
+          "+15% global learning factor",
+          "+10% pain shock threshold",
+          "+20 carrying capacity",
+          "+2.0 melee dodge chance",
+          "x90% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Faction: Valor",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KiiroValor_Trait_ValorHero",
+      "name": "valor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“符箓师”能力的鼠鼠。\n\n符箓师们都是鼠鼠中的美术生，她们每年都要考核一次画符能力，不过据说她们不仅仅要学习画符，传言她们的毕业考是“乌龟的一百种画法”",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+2 shooting",
+        "+4 intellectual"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+2 shooting",
+          "+4 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast Fulu Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_14_Trait",
+      "name": "符箓师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“阵法师”能力的鼠鼠。\n\n符箓师们都是鼠鼠中的美术生，她们每年都要考核一次画符能力，不过据说她们不仅仅要学习画符，传言她们的毕业考是“乌龟的一百种画法”",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+3 shooting",
+        "+3 intellectual"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+3 shooting",
+          "+3 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast Fulu Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_22_Trait",
+      "name": "阵法师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“儒士”能力的鼠鼠。\n\n儒士是鼠鼠中的文化人，她们最喜欢的就是给别人说茴香豆的“茴”字有几种写法",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+5 social",
+        "+1 intellectual"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+5 social",
+          "+1 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast Fulu Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_28_Trait",
+      "name": "儒士"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“刀狂”能力的鼠鼠。\n\n“刀狂”鼠鼠精通刀法，在她们手中挥砍出的刀影，是战场上夺命的死神",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+6 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+6 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast GlintOfTheBlade Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_24_Trait",
+      "name": "刀狂"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“龙枪”能力的鼠鼠。\n\n枪出如龙，寒芒荡尽宵小，枪尖染血，战场再无敌手",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+6 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+6 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast GlintOfTheBlade Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_26_Trait",
+      "name": "龙枪"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“落日者”能力的鼠鼠。\n\n在落日弓的射程范围内，没有人能够逃脱",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+6 shooting"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+6 shooting"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast GlintOfTheBlade Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_27_Trait",
+      "name": "落日者"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“双子”能力的鼠鼠。",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "+5 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "+5 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast GlintOfTheBlade Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_29_Trait",
+      "name": "双子"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“仿生人”能力的鼠鼠。\n\n“仿生人”鼠鼠认为机械飞升才是唯一的出路，她们热衷于改造自己的身体，希望最终能完全被机械取代",
+      "stats": [
+        "Artistic meditation focus type allowed.",
+        "+2 crafting",
+        "+4 intellectual"
+      ],
+      "conflicts": [
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bodypurist"
+        ],
+        "stats": [
+          "Artistic meditation focus type allowed.",
+          "+2 crafting",
+          "+4 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast Mechanical Ascension",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_25_Trait",
+      "name": "仿生人"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“药剂师”能力的鼠鼠。\n\n药剂师们有着很高的药学造诣，她们经常会去帮助鼠族修女们治疗伤员，她们也会借此假扮成鼠族修女让伤员们试她们的新药，所以如果有人看见穿着修女服的鼠鼠笑脸盈盈的端着一碗药过来，请赶快离开",
+      "stats": [
+        "Minimal meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Natural meditation focus type allowed.",
+        "+4 plants",
+        "+2 medical"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Minimal meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Natural meditation focus type allowed.",
+          "+4 plants",
+          "+2 medical"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast Pharmacist Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_16_Trait",
+      "name": "药剂师"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "掌握了“饕餮”能力的鼠鼠。\n\n饕餮是遥远蓝星中记载的一种上古凶兽，胃口极大，代表着贪食和暴食，而“超凡智鼠”根据其记载开创出了一系列灵能能力，开创出了新的灵能职业",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "Artistic meditation focus type allowed.",
+        "Natural meditation focus type allowed.",
+        "Void meditation focus type allowed.",
+        "+6 cooking"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "Artistic meditation focus type allowed.",
+          "Natural meditation focus type allowed.",
+          "Void meditation focus type allowed.",
+          "+6 cooking"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[Bendan]RatkinPsycast Pharmacist Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bendan_RKPsycast_BionicTail_23_Trait",
+      "name": "饕餮"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy Not willing to spend money. Timmy always haggles as much as he can in trading, and never goes shopping in spare time.",
+      "stats": [
+        "+8.00% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+8.00% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Story: Events Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Kiiro_ShoppingTendency",
+      "name": "stingy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy likes to buy things and spends money lavishly. Timmy visits stores more often and always spends more.",
+      "stats": [
+        "-8.00% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-8.00% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Story: Events Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Kiiro_ShoppingTendency",
+      "name": "shopaholic"
     }
   ],
   "races": [
@@ -5871,7 +7305,7 @@
           "+16.0C Min comfortable temperature",
           "+26.0C Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value",
+          "+2 Honor value",
           "+75% Wildness"
         ],
         "mod": "Unknown",
@@ -6037,6 +7471,62 @@
       "enabled": true,
       "name": "Yautja",
       "price": 5833
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+45.00 Mass",
+          "+30% Flammability",
+          "+0.0 Melee dodge chance",
+          "+150% Melee critical chance",
+          "+200% Melee parry chance",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "+35% Mental break threshold",
+          "+37.0C Max comfortable temperature",
+          "+5.0C Min comfortable temperature",
+          "+98% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+4 Honor value",
+          "+45 Meat amount",
+          "+50 Leather amount",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+80% Pain shock threshold",
+          "+100% General labor speed",
+          "+100% Drug synthesis speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+80.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+120% Global work speed",
+          "+90% Eating speed",
+          "+80% Construction speed",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+80% Smelting speed",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+100% Mining yield",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A humanoid species with cat-like ears and cat-tailed limbs, the kiiro race. \n\nAs natives who have lived on this planet for thousands of years, the technology of the kiiros has developed slowly after reaching the medieval level: they always have more things to do than to develop science and technology, such as napping, gossiping, sunbathing and enjoying leisure time. Even when they moved out of their free time to work, they were more than happy to do something related to art. Because of their gentle and non-combative character, their society has always maintained a high degree of harmony and stability throughout their long history, with very few conflicts and disputes, and this has resulted in the fact that although they have the gift dexterous in fighting, they are not good at it. \n\nBut all this began to change when the rough outsiders landed on this planet and got a firm foothold: lack of combat experience and training, technology has not been developed to a great extent, the kiiros appear very powerless in the face of foreign enemy attacks, many villages and towns were attacked and fallen, the survival of the kiiros once fell into a crisis, which forced the kiiros to give up their peaceful life, and set out on a difficult and long road of living. \n\nHowever, the invasion of foreign enemies not only spread the war, but also brought the opportunity of technological development to kiiros. With the exposure to the technology brought by the outsiders, the technological level of the kiiros has exploded in a short period of time through introduction and imitation, and the seeds of the industrial age have quietly sprouted within this ancient and backward race......",
+      "defName": "Kiiro_Race",
+      "enabled": true,
+      "name": "kiiro race",
+      "price": 3000
     }
   ]
 }
