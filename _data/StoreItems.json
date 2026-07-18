@@ -39943,6 +39943,198 @@
       "price": 1
     },
     {
+      "abr": "balfourianaepistol",
+      "category": "Ranged weapons",
+      "defname": "RK_KO_Balfourianae",
+      "price": 189
+    },
+    {
+      "abr": "echiumarmor-piercingarbalest",
+      "category": "Ranged weapons",
+      "defname": "RK_KO_Echium",
+      "price": 158
+    },
+    {
+      "abr": "floralamberheavyrifle",
+      "category": "Ranged weapons",
+      "defname": "RK_KO_FloralAmber",
+      "price": 1367
+    },
+    {
+      "abr": "goldengardengrenadegun",
+      "category": "Ranged weapons",
+      "defname": "RK_KO_GoldenGarden",
+      "price": 1017
+    },
+    {
+      "abr": "jasminearcaneimplement",
+      "category": "Ranged weapons",
+      "defname": "RK_KO_Jasmine",
+      "price": 775
+    },
+    {
+      "abr": "crusadergreatsword",
+      "category": "Melee weapons",
+      "defname": "RK_CrusaderGreatSword",
+      "price": 327
+    },
+    {
+      "abr": "crusaderlance",
+      "category": "Melee weapons",
+      "defname": "RK_CrusaderLance",
+      "price": 658
+    },
+    {
+      "abr": "devilstrandlasso",
+      "category": "Utility",
+      "defname": "AM_LassoDevilstrand",
+      "price": 500
+    },
+    {
+      "abr": "halostimulateinjecter",
+      "category": "Manufactured",
+      "defname": "MH_HaloStimulate",
+      "price": 86692
+    },
+    {
+      "abr": "hyperweavelasso",
+      "category": "Utility",
+      "defname": "AM_LassoHyperwave",
+      "price": 583
+    },
+    {
+      "abr": "knightsword",
+      "category": "Melee weapons",
+      "defname": "RK_KnightSword",
+      "price": 467
+    },
+    {
+      "abr": "lasso",
+      "category": "Utility",
+      "defname": "AM_LassoCloth",
+      "price": 250
+    },
+    {
+      "abr": "orderstateacademiccap",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_AcademicCap",
+      "price": 224
+    },
+    {
+      "abr": "orderstateacademicuniform",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_AcademicUniform",
+      "price": 315
+    },
+    {
+      "abr": "orderstateclerichood",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_ClericHood",
+      "price": 191
+    },
+    {
+      "abr": "orderstateclericrobe",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_ClericRobe",
+      "price": 269
+    },
+    {
+      "abr": "orderstatecloak",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_Cloak",
+      "price": 280
+    },
+    {
+      "abr": "orderstateinfantrycap",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_InfantryCap",
+      "price": 224
+    },
+    {
+      "abr": "orderstateinfantryhelmet",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_InfantryHelmet",
+      "price": 318
+    },
+    {
+      "abr": "orderstateinfantryuniform",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_InfantryUniform",
+      "price": 392
+    },
+    {
+      "abr": "orderstateknightarmor",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_KnightArmor",
+      "price": 1533
+    },
+    {
+      "abr": "orderstateknighthelmet",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_KnightHelmet",
+      "price": 525
+    },
+    {
+      "abr": "orderstateknightuniform",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_KnightUniform",
+      "price": 575
+    },
+    {
+      "abr": "orderstatelightarmor",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_InfantryArmor",
+      "price": 925
+    },
+    {
+      "abr": "orderstatemantle",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_Mantle",
+      "price": 297
+    },
+    {
+      "abr": "orderstatenobledress",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_NobleDress",
+      "price": 342
+    },
+    {
+      "abr": "orderstatenoblehat",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_NobleHat",
+      "price": 191
+    },
+    {
+      "abr": "orderstatewintercoat",
+      "category": "Ratkin apparel",
+      "defname": "RK_KO_WinterCoat",
+      "price": 297
+    },
+    {
+      "abr": "scarletedge",
+      "category": "Melee weapons",
+      "defname": "AM_Weebstick",
+      "price": 5833
+    },
+    {
+      "abr": "20x84mmgrenade(he)",
+      "category": "20x84mm Grenade",
+      "defname": "Ammo_20x84mmGrenade_HE_Ratkin",
+      "price": 4
+    },
+    {
+      "abr": "20x84mmgrenade(smoke)",
+      "category": "20x84mm Grenade",
+      "defname": "Ammo_20x84mmGrenade_Smoke_Ratkin",
+      "price": 3
+    },
+    {
+      "abr": "6.2x186mmratkin",
+      "category": "6.2x186mm Ratkin",
+      "defname": "Ammo_62x186mmRatkin",
+      "price": 17
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -39955,5 +40147,5 @@
       "price": 642
     }
   ],
-  "total": 6659
+  "total": 6691
 }
