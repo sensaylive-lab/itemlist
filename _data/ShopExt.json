@@ -7167,6 +7167,270 @@
       },
       "defName": "Kiiro_ShoppingTendency",
       "name": "shopaholic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has a very strong connection with the Force. he is extremely sensitive to psychic phenomena.",
+      "stats": [
+        "+80% psychic sensitivity"
+      ],
+      "conflicts": [
+        "psychicallyhypersensitive",
+        "psychicallysensitive",
+        "psychicallydull",
+        "psychicallydeaf"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychicallyhypersensitive",
+          "psychicallysensitive",
+          "psychicallydull",
+          "psychicallydeaf"
+        ],
+        "stats": [
+          "+80% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_NeutralSensitivty",
+      "name": "majorforcesensitivity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a connection with the Force. A metaphysical, spiritual, binding, and ubiquitous power that held enormous importance for both the Jedi and Sith monastic orders.",
+      "stats": [
+        "+40% psychic sensitivity"
+      ],
+      "conflicts": [
+        "psychicallyhypersensitive",
+        "psychicallysensitive",
+        "psychicallydull",
+        "psychicallydeaf"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychicallyhypersensitive",
+          "psychicallysensitive",
+          "psychicallydull",
+          "psychicallydeaf"
+        ],
+        "stats": [
+          "+40% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_NeutralSensitivty",
+      "name": "forcesensitivity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has a weaker connection to the Force compared to other force sensitives. he isn't as affected by psychic phenomena.",
+      "stats": [
+        "+20% psychic sensitivity"
+      ],
+      "conflicts": [
+        "psychicallyhypersensitive",
+        "psychicallysensitive",
+        "psychicallydull",
+        "psychicallydeaf"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychicallyhypersensitive",
+          "psychicallysensitive",
+          "psychicallydull",
+          "psychicallydeaf"
+        ],
+        "stats": [
+          "+20% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_NeutralSensitivty",
+      "name": "dullforcesensitivity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a very strong affinity with the light side of the Force.",
+      "stats": [
+        "+80% light side attunement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+80% light side attunement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_LightAffinity",
+      "name": "majorlightsideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a strong affinity with the light side of the Force.",
+      "stats": [
+        "+40% light side attunement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+40% light side attunement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_LightAffinity",
+      "name": "lightsideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has a weak affinity with the light side of the Force.",
+      "stats": [
+        "+20% light side attunement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% light side attunement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_LightAffinity",
+      "name": "minorlightsideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a very strong affinity with the dark side of the Force.",
+      "stats": [
+        "+80% dark side corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+80% dark side corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_DarkAffinity",
+      "name": "majordarksideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a strong affinity with the dark side of the Force.",
+      "stats": [
+        "+40% dark side corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+40% dark side corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_DarkAffinity",
+      "name": "darksideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has a weak affinity with the dark side of the Force.",
+      "stats": [
+        "+20% dark side corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% dark side corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force-Psycast",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_DarkAffinity",
+      "name": "minordarksideaffinity"
     }
   ],
   "races": [

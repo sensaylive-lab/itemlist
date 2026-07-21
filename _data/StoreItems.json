@@ -15466,7 +15466,7 @@
       "abr": "cube",
       "category": "Inert relics",
       "defname": "RelicInertCube",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "cubicbed",
@@ -15682,7 +15682,7 @@
       "abr": "dirtcubesculpture",
       "category": "Art",
       "defname": "DirtCubeSculpture",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "disgustingnutrientpastemeal",
@@ -17398,7 +17398,7 @@
       "abr": "goldencube",
       "category": "Misc",
       "defname": "GoldenCube",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "goldeneye",
@@ -25018,7 +25018,7 @@
       "abr": "sandcubesculpture",
       "category": "Art",
       "defname": "SandCubeSculpture",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "sandlion",
@@ -25156,7 +25156,7 @@
       "abr": "scrapcubesculpture",
       "category": "Art",
       "defname": "ScrapCubeSculpture",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "scytherblade",
@@ -26488,7 +26488,7 @@
       "abr": "stonecubesculpture",
       "category": "Art",
       "defname": "StoneCubeSculpture",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "stone-framedbedroll",
@@ -32764,7 +32764,7 @@
       "abr": "goldencube",
       "category": "Art",
       "defname": "RSMF_Collections_GoldCube",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "goldentoilet",
@@ -40135,6 +40135,1002 @@
       "price": 17
     },
     {
+      "abr": "ancientresurrectorscroll",
+      "category": "Misc",
+      "defname": "Force_AncientResurrectorScroll",
+      "price": 2833
+    },
+    {
+      "abr": "arcann'smask",
+      "category": "Headgear",
+      "defname": "Force_ArcannMask",
+      "price": 321
+    },
+    {
+      "abr": "baylanskollarmor",
+      "category": "Apparel",
+      "defname": "Force_BSkoll",
+      "price": 417
+    },
+    {
+      "abr": "cape",
+      "category": "Apparel",
+      "defname": "Force_Cloak",
+      "price": 367
+    },
+    {
+      "abr": "cloak",
+      "category": "Apparel",
+      "defname": "Force_Cape",
+      "price": 315
+    },
+    {
+      "abr": "forcesensitivearmor",
+      "category": "Armor",
+      "defname": "Force_JediArmor",
+      "price": 550
+    },
+    {
+      "abr": "forcesensitiverobe",
+      "category": "Apparel",
+      "defname": "Force_Robe",
+      "price": 183
+    },
+    {
+      "abr": "hood",
+      "category": "Headgear",
+      "defname": "Force_ApparelHood",
+      "price": 203
+    },
+    {
+      "abr": "imperialknightarmor",
+      "category": "Armor",
+      "defname": "Force_ImpKnight",
+      "price": 883
+    },
+    {
+      "abr": "jediholocron(animalbond)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Bond",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(combustion)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Combustion",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(forceenlightment)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Enlightment",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(forcehealing(transferwounds))",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_HealthSwap",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(forcehealing)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Healing",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(forcemeld)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Meld",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(forcestabilize)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Stabilize",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(forcesurge)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Surge",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(ionize)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Ionize",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(protectionbubble)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Barrier",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(revitalize)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_Revitalize",
+      "price": 2917
+    },
+    {
+      "abr": "jediholocron(stasisfield)",
+      "category": "Jedi Holocron",
+      "defname": "Force_JediHolocron_Force_StasisField",
+      "price": 2917
+    },
+    {
+      "abr": "mechu-link",
+      "category": "Mechtech",
+      "defname": "Force_MechuLink",
+      "price": 833
+    },
+    {
+      "abr": "nightsisterenergybow",
+      "category": "Ranged weapons",
+      "defname": "Force_EnergyBow",
+      "price": 358
+    },
+    {
+      "abr": "psytrainer(ancientsithcrafting.)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SithCrafting",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(animalbond)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Bond",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(apprenticeship)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Apprenticeship",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(awakenforce)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_AwakenPsycasting",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(battlemeditation)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Battle_Meditation",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(centerofbeing)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_CenterOfBeing",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(chomai)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ChoMai",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(chomok)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ChoMok",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(chosun)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ChoSun",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(combatlecture)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Combat_Lecture",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(combustion)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Combustion",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(createobjects)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SummonObject",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(drainvitality)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Drain_Vitality",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(dunmoch)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Dun_Moch",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(dunmöch)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_DunMoch",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(force:shelter)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Shelter",
+      "price": 3833
+    },
+    {
+      "abr": "psytrainer(forceattract)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Attract",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(forcebarrier)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Telekinesis",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(forceburst)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Destruction",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(forcechoke)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ForceChoke",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(forcecloak)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Cloak",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(forcecryokinesis)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Cryokinesis",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(forcedrop)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ForceDrop",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(forceenlightment)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Enlightment",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(forcefear)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Fear",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(forcehatred)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Hatred",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(forcehealing(transferwounds))",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_HealthSwap",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(forcehealing)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Healing",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(forceinsanity)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Insanity",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(forceleap)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Leap",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(forcelightning)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Lightning",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(forcemeld)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Meld",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(forcephantom)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Illusion",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(forcepull)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ForcePull",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(forcepush)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ForcePush",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(forcerage)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Rage",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(forcerepulse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Repulsion",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(forcesensitivitylecture)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Sensitivity_Lecture",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(forcespeedboost)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SpeedBoost",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(forcestabilize)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Stabilize",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(forcestasis)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Burden",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(forcestorm)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ForceStorm",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(forcesurge)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Surge",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(forcethrow)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Throw",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(forcewave)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ForceWave",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(ionize)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Ionize",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(jediready)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Jedi_Ready",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(lightningstrike)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_LightningStrike",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(magick:chantofresurrection)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ChantofResurrection",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(magick:revitalizationofthewhuffa)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MagickWhuffaHeal",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(magick:soulpyre)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SoulPyre",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(magick:spellofcomfort)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ComfortSpell",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(magick:teleport)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_NightsisterTeleport",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(magick:tempest)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Tempest",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(magick:witch'sbargain)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_WitchBargain",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(magick:lightning)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_NightsisterMagick",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(magick:spellofprotection)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ShieldofProtection",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(magick:ssurianscream)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SsurianScream",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(magick:summonichorsword)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MagickWeapon",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(malacia)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Malacia",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(manipulationlecture)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Manipulation_Lecture",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(mechuderu-mechoverride.)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechOverride",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(mechurisen'th)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuRisenTh",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(mechu-aegis)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuAegis",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(mechu-flare)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuFlare",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(mechu-flux/infusis)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuFlux",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(mechu-reconste)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuReconste",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(mechu-shield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuShield",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(mechu-tek)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuTek",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(mechu-tek'rok)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuTekRok",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(mechu-tether)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuTether",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(mechu-transmutation)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuTransmutation",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(mechu-tune)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MechuTune",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(meditationstandin)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Duel",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(meditation)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Meditation",
+      "price": 1333
+    },
+    {
+      "abr": "psytrainer(mentaltoughnesslecture)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Mental_Lecture",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(mindcontrol)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Mind_Control",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(mindshard)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MindShard",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(mindwipe)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MindWipe",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(moukei)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_MouKei",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(precognition)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Precognition",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(protectionbubble)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Barrier",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(revitalize)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Revitalize",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(saicha)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SaiCha",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(saitok)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SaiTok",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(sai)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Sai",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(senselecture)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Sense_Lecture",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(shiim)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Shiim",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(sithresurrectionritual)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SithRitualResurrection",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(sithritual:darkchain)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SithRitualDarkChain",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(sithritual:drainknowledge)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_DrainKnowledge",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(sithritual:prayer)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SithRitualPrayer",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(sithritual:summonterentatek)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SummonTerentatek",
+      "price": 1833
+    },
+    {
+      "abr": "psytrainer(sithritual)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SithRitual",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(sithritual:phantoms)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_PhantomArmy",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(sociallecture)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_Social_Lecture",
+      "price": 3333
+    },
+    {
+      "abr": "psytrainer(stasisfield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_StasisField",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(sundjerm)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_SunDjerm",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(telekineticlightsaber)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_TelekineticLightsaber",
+      "price": 2833
+    },
+    {
+      "abr": "psytrainer(throwweapon)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_ThrowWeapon",
+      "price": 2333
+    },
+    {
+      "abr": "psytrainer(transferessence)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_Force_TransferEssence",
+      "price": 3333
+    },
+    {
+      "abr": "scrolldarksideweb",
+      "category": "Utility",
+      "defname": "Force_ScrollDarksideWeb",
+      "price": 917
+    },
+    {
+      "abr": "scrollofboltofhatred",
+      "category": "Ranged weapons",
+      "defname": "Force_BoltofHatred",
+      "price": 1667
+    },
+    {
+      "abr": "scrollofsuppressthought",
+      "category": "Utility",
+      "defname": "Force_ScrollSuppressThought",
+      "price": 1083
+    },
+    {
+      "abr": "scroll(sithsorcery)",
+      "category": "Manufactured",
+      "defname": "Force_AncientScroll",
+      "price": 533
+    },
+    {
+      "abr": "sidecape",
+      "category": "Apparel",
+      "defname": "Force_CloakSide",
+      "price": 367
+    },
+    {
+      "abr": "sithholocron(drainvitality)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_Drain_Vitality",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(forceburst)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_Destruction",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(forcecryokinesis)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_Cryokinesis",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(forcefear)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_Fear",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(forcehatred)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_Hatred",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(forceinsanity)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_Insanity",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(forcelightning)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_Lightning",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(forcephantom)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_Illusion",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(forcerage)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_Rage",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(mindcontrol)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Mind_Control",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(mindshard)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_MindShard",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(sithritual:phantoms)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_PhantomArmy",
+      "price": 2917
+    },
+    {
+      "abr": "sithholocron(transferessence)",
+      "category": "Sith Holocron",
+      "defname": "Force_SithHolocron_Force_TransferEssence",
+      "price": 2917
+    },
+    {
+      "abr": "sithstatue",
+      "category": "Special",
+      "defname": "Force_SithStatue",
+      "price": 2167
+    },
+    {
+      "abr": "sithwarblade",
+      "category": "Persona weapons",
+      "defname": "Force_SithBladelink",
+      "price": 5000
+    },
+    {
+      "abr": "sith-tech:arm",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruArm",
+      "price": 3333
+    },
+    {
+      "abr": "sith-tech:brainmelder",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruBrainMelder",
+      "price": 3333
+    },
+    {
+      "abr": "sith-tech:denture",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruDenture",
+      "price": 4667
+    },
+    {
+      "abr": "sith-tech:ear",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruEar",
+      "price": 4667
+    },
+    {
+      "abr": "sith-tech:eye",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruEye",
+      "price": 3000
+    },
+    {
+      "abr": "sith-tech:heart",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruHeart",
+      "price": 4667
+    },
+    {
+      "abr": "sith-tech:kidney",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruKidney",
+      "price": 4667
+    },
+    {
+      "abr": "sith-tech:leg",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruLeg",
+      "price": 3667
+    },
+    {
+      "abr": "sith-tech:liver",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruLiver",
+      "price": 4667
+    },
+    {
+      "abr": "sith-tech:lung",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruLung",
+      "price": 4667
+    },
+    {
+      "abr": "sith-tech:membrane",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruMembrane",
+      "price": 41667
+    },
+    {
+      "abr": "sith-tech:pelvis",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruPelvis",
+      "price": 4667
+    },
+    {
+      "abr": "sith-tech:spine",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruSpine",
+      "price": 4667
+    },
+    {
+      "abr": "sith-tech:stomach",
+      "category": "Sith-Tech :",
+      "defname": "Force_MechuDeruStomach",
+      "price": 4667
+    },
+    {
+      "abr": "techprint(mechu-deruinitiation)",
+      "category": "Techprints",
+      "defname": "Techprint_Force_SithTech",
+      "price": 3333
+    },
+    {
+      "abr": "templeguardarmor",
+      "category": "Armor",
+      "defname": "Force_TempleGuardArmor",
+      "price": 717
+    },
+    {
+      "abr": "templeguardmask",
+      "category": "Headgear",
+      "defname": "Force_TempleGuardMask",
+      "price": 321
+    },
+    {
+      "abr": "terentatek",
+      "category": "Animals",
+      "defname": "SithSorcery_Terentatek_Pawn",
+      "price": 13333
+    },
+    {
+      "abr": "terentatekegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "SithSorcery_EggTerentatekFertilized",
+      "price": 233
+    },
+    {
+      "abr": "terentatekegg(fert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "SithSorcery_EggTerentatekUnFertilized",
+      "price": 125
+    },
+    {
+      "abr": "terentatekhide",
+      "category": "Leathers",
+      "defname": "Leather_Terentatek",
+      "price": 33
+    },
+    {
+      "abr": "terentatekmeat",
+      "category": "Meat",
+      "defname": "Meat_SithSorcery_Terentatek_Pawn",
+      "price": 3
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -40147,5 +41143,5 @@
       "price": 642
     }
   ],
-  "total": 6691
+  "total": 6857
 }
